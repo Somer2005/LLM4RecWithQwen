@@ -1,0 +1,1683 @@
+item_id,title,clean_title,genres
+1,Toy Story (1995),toy story,"Animation, Children, Comedy"
+2,GoldenEye (1995),goldeneye,"Action, Adventure, Thriller"
+3,Four Rooms (1995),four rooms,Thriller
+4,Get Shorty (1995),get shorty,"Action, Comedy, Drama"
+5,Copycat (1995),copycat,"Crime, Drama, Thriller"
+6,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),shanghai triad yao yao yao dao waipo qiao,Drama
+7,Twelve Monkeys (1995),twelve monkeys,"Drama, Sci-Fi"
+8,Babe (1995),babe,"Children, Comedy, Drama"
+9,Dead Man Walking (1995),dead man walking,Drama
+10,Richard III (1995),richard iii,"Drama, War"
+11,Seven (Se7en) (1995),seven se7en,"Crime, Thriller"
+12,"Usual Suspects, The (1995)",usual suspects,"Crime, Thriller"
+13,Mighty Aphrodite (1995),mighty aphrodite,Comedy
+14,"Postino, Il (1994)",postino,"Drama, Romance"
+15,Mr. Holland's Opus (1995),hollands opus,Drama
+16,French Twist (Gazon maudit) (1995),french twist gazon maudit,"Comedy, Romance"
+17,From Dusk Till Dawn (1996),dusk till dawn,"Action, Comedy, Crime, Horror, Thriller"
+18,"White Balloon, The (1995)",white balloon,Drama
+19,Antonia's Line (1995),antonias line,Drama
+20,Angels and Insects (1995),angels insects,"Drama, Romance"
+21,Muppet Treasure Island (1996),muppet treasure island,"Action, Adventure, Comedy, Musical, Thriller"
+22,Braveheart (1995),braveheart,"Action, Drama, War"
+23,Taxi Driver (1976),taxi driver,"Drama, Thriller"
+24,Rumble in the Bronx (1995),rumble bronx,"Action, Adventure, Crime"
+25,"Birdcage, The (1996)",birdcage,Comedy
+26,"Brothers McMullen, The (1995)",brothers mcmullen,Comedy
+27,Bad Boys (1995),bad boys,Action
+28,Apollo 13 (1995),apollo,"Action, Drama, Thriller"
+29,Batman Forever (1995),batman forever,"Action, Adventure, Comedy, Crime"
+30,Belle de jour (1967),belle jour,Drama
+31,Crimson Tide (1995),crimson tide,"Drama, Thriller, War"
+32,Crumb (1994),crumb,Documentary
+33,Desperado (1995),desperado,"Action, Romance, Thriller"
+34,"Doom Generation, The (1995)",doom generation,"Comedy, Drama"
+35,Free Willy 2: The Adventure Home (1995),free willy adventure home,"Adventure, Children, Drama"
+36,Mad Love (1995),mad love,"Drama, Romance"
+37,Nadja (1994),nadja,Drama
+38,"Net, The (1995)",net,"Sci-Fi, Thriller"
+39,Strange Days (1995),strange days,"Action, Crime, Sci-Fi"
+40,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",wong foo thanks everything julie newmar,Comedy
+41,Billy Madison (1995),billy madison,Comedy
+42,Clerks (1994),clerks,Comedy
+43,Disclosure (1994),disclosure,"Drama, Thriller"
+44,Dolores Claiborne (1994),dolores claiborne,"Drama, Thriller"
+45,Eat Drink Man Woman (1994),eat drink man woman,"Comedy, Drama"
+46,Exotica (1994),exotica,Drama
+47,Ed Wood (1994),wood,"Comedy, Drama"
+48,Hoop Dreams (1994),hoop dreams,Documentary
+49,I.Q. (1994),,"Comedy, Romance"
+50,Star Wars (1977),star wars,"Action, Adventure, Romance, Sci-Fi, War"
+51,Legends of the Fall (1994),legends fall,"Drama, Romance, War, Western"
+52,"Madness of King George, The (1994)",madness king george,Drama
+53,Natural Born Killers (1994),natural born killers,"Action, Thriller"
+54,Outbreak (1995),outbreak,"Action, Drama, Thriller"
+55,"Professional, The (1994)",professional,"Crime, Drama, Romance, Thriller"
+56,Pulp Fiction (1994),pulp fiction,"Crime, Drama"
+57,Priest (1994),priest,Drama
+58,Quiz Show (1994),quiz show,Drama
+59,Three Colors: Red (1994),three colors red,Drama
+60,Three Colors: Blue (1993),three colors blue,Drama
+61,Three Colors: White (1994),three colors white,Drama
+62,Stargate (1994),stargate,"Action, Adventure, Sci-Fi"
+63,"Santa Clause, The (1994)",santa clause,"Children, Comedy"
+64,"Shawshank Redemption, The (1994)",shawshank redemption,Drama
+65,What's Eating Gilbert Grape (1993),whats eating gilbert grape,"Comedy, Drama"
+66,While You Were Sleeping (1995),sleeping,"Comedy, Romance"
+67,Ace Ventura: Pet Detective (1994),ace ventura pet detective,Comedy
+68,"Crow, The (1994)",crow,"Action, Romance, Thriller"
+69,Forrest Gump (1994),forrest gump,"Comedy, Romance, War"
+70,Four Weddings and a Funeral (1994),four weddings funeral,"Comedy, Romance"
+71,"Lion King, The (1994)",lion king,"Animation, Children, Musical"
+72,"Mask, The (1994)",mask,"Comedy, Crime, Fantasy"
+73,Maverick (1994),maverick,"Action, Comedy, Western"
+74,Faster Pussycat! Kill! Kill! (1965),faster pussycat kill kill,"Action, Comedy, Drama"
+75,Brother Minister: The Assassination of Malcolm X (1994),brother minister assassination malcolm,Documentary
+76,Carlito's Way (1993),carlitos way,"Crime, Drama"
+77,"Firm, The (1993)",firm,"Drama, Thriller"
+78,Free Willy (1993),free willy,"Adventure, Children, Drama"
+79,"Fugitive, The (1993)",fugitive,"Action, Thriller"
+80,Hot Shots! Part Deux (1993),hot shots part deux,"Action, Comedy, War"
+81,"Hudsucker Proxy, The (1994)",hudsucker proxy,"Comedy, Romance"
+82,Jurassic Park (1993),jurassic park,"Action, Adventure, Sci-Fi"
+83,Much Ado About Nothing (1993),much ado nothing,"Comedy, Romance"
+84,Robert A. Heinlein's The Puppet Masters (1994),robert heinleins puppet masters,"Horror, Sci-Fi"
+85,"Ref, The (1994)",ref,Comedy
+86,"Remains of the Day, The (1993)",remains day,Drama
+87,Searching for Bobby Fischer (1993),searching bobby fischer,Drama
+88,Sleepless in Seattle (1993),sleepless seattle,"Comedy, Romance"
+89,Blade Runner (1982),blade runner,"Film-Noir, Sci-Fi"
+90,So I Married an Axe Murderer (1993),married axe murderer,"Comedy, Romance, Thriller"
+91,"Nightmare Before Christmas, The (1993)",nightmare christmas,"Children, Comedy, Musical"
+92,True Romance (1993),true romance,"Action, Crime, Romance"
+93,Welcome to the Dollhouse (1995),welcome dollhouse,"Comedy, Drama"
+94,Home Alone (1990),home alone,"Children, Comedy"
+95,Aladdin (1992),aladdin,"Animation, Children, Comedy, Musical"
+96,Terminator 2: Judgment Day (1991),terminator judgment day,"Action, Sci-Fi, Thriller"
+97,Dances with Wolves (1990),dances wolves,"Adventure, Drama, Western"
+98,"Silence of the Lambs, The (1991)",silence lambs,"Drama, Thriller"
+99,Snow White and the Seven Dwarfs (1937),snow white seven dwarfs,"Animation, Children, Musical"
+100,Fargo (1996),fargo,"Crime, Drama, Thriller"
+101,Heavy Metal (1981),heavy metal,"Action, Adventure, Animation, Horror, Sci-Fi"
+102,"Aristocats, The (1970)",aristocats,"Animation, Children"
+103,All Dogs Go to Heaven 2 (1996),dogs heaven,"Animation, Children, Musical"
+104,Theodore Rex (1995),theodore rex,Comedy
+105,Sgt. Bilko (1996),sgt bilko,Comedy
+106,Diabolique (1996),diabolique,"Drama, Thriller"
+107,Moll Flanders (1996),moll flanders,Drama
+108,Kids in the Hall: Brain Candy (1996),kids hall brain candy,Comedy
+109,Mystery Science Theater 3000: The Movie (1996),mystery science theater 3000 movie,"Comedy, Sci-Fi"
+110,Operation Dumbo Drop (1995),operation dumbo drop,"Action, Adventure, Comedy, War"
+111,"Truth About Cats & Dogs, The (1996)",truth cats dogs,"Comedy, Romance"
+112,Flipper (1996),flipper,"Adventure, Children"
+113,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",horseman roof hussard sur toit,Drama
+114,Wallace & Gromit: The Best of Aardman Animation (1996),wallace gromit best aardman animation,Animation
+115,"Haunted World of Edward D. Wood Jr., The (1995)",haunted world edward wood,Documentary
+116,Cold Comfort Farm (1995),cold comfort farm,Comedy
+117,"Rock, The (1996)",rock,"Action, Adventure, Thriller"
+118,Twister (1996),twister,"Action, Adventure, Thriller"
+119,Maya Lin: A Strong Clear Vision (1994),maya lin strong clear vision,Documentary
+120,Striptease (1996),striptease,"Comedy, Crime"
+121,Independence Day (ID4) (1996),independence day id4,"Action, Sci-Fi, War"
+122,"Cable Guy, The (1996)",cable guy,Comedy
+123,"Frighteners, The (1996)",frighteners,"Comedy, Horror"
+124,Lone Star (1996),lone star,"Drama, Mystery"
+125,Phenomenon (1996),phenomenon,"Drama, Romance"
+126,"Spitfire Grill, The (1996)",spitfire grill,Drama
+127,"Godfather, The (1972)",godfather,"Action, Crime, Drama"
+128,Supercop (1992),supercop,"Action, Thriller"
+129,Bound (1996),bound,"Crime, Drama, Romance, Thriller"
+130,Kansas City (1996),kansas city,Crime
+131,Breakfast at Tiffany's (1961),breakfast tiffanys,"Drama, Romance"
+132,"Wizard of Oz, The (1939)",wizard,"Adventure, Children, Drama, Musical"
+133,Gone with the Wind (1939),gone wind,"Drama, Romance, War"
+134,Citizen Kane (1941),citizen kane,Drama
+135,2001: A Space Odyssey (1968),2001 space odyssey,"Drama, Mystery, Sci-Fi, Thriller"
+136,Mr. Smith Goes to Washington (1939),smith goes washington,Drama
+137,Big Night (1996),big night,Drama
+138,D3: The Mighty Ducks (1996),mighty ducks,"Children, Comedy"
+139,"Love Bug, The (1969)",love bug,"Children, Comedy"
+140,Homeward Bound: The Incredible Journey (1993),homeward bound incredible journey,"Adventure, Children"
+141,"20,000 Leagues Under the Sea (1954)",20000 leagues sea,"Adventure, Children, Fantasy, Sci-Fi"
+142,Bedknobs and Broomsticks (1971),bedknobs broomsticks,"Adventure, Children, Musical"
+143,"Sound of Music, The (1965)",sound music,Musical
+144,Die Hard (1988),die hard,"Action, Thriller"
+145,"Lawnmower Man, The (1992)",lawnmower man,"Action, Sci-Fi, Thriller"
+146,Unhook the Stars (1996),unhook stars,Drama
+147,"Long Kiss Goodnight, The (1996)",long kiss goodnight,"Action, Thriller"
+148,"Ghost and the Darkness, The (1996)",ghost darkness,"Action, Adventure"
+149,Jude (1996),jude,Drama
+150,Swingers (1996),swingers,"Comedy, Drama"
+151,Willy Wonka and the Chocolate Factory (1971),willy wonka chocolate factory,"Adventure, Children, Comedy"
+152,Sleeper (1973),sleeper,"Comedy, Sci-Fi"
+153,"Fish Called Wanda, A (1988)",fish called wanda,Comedy
+154,Monty Python's Life of Brian (1979),monty pythons life brian,Comedy
+155,Dirty Dancing (1987),dirty dancing,"Musical, Romance"
+156,Reservoir Dogs (1992),reservoir dogs,"Crime, Thriller"
+157,Platoon (1986),platoon,"Drama, War"
+158,Weekend at Bernie's (1989),weekend bernies,Comedy
+159,Basic Instinct (1992),basic instinct,"Mystery, Thriller"
+160,Glengarry Glen Ross (1992),glengarry glen ross,Drama
+161,Top Gun (1986),top gun,"Action, Romance"
+162,On Golden Pond (1981),golden pond,Drama
+163,"Return of the Pink Panther, The (1974)",return pink panther,Comedy
+164,"Abyss, The (1989)",abyss,"Action, Adventure, Sci-Fi, Thriller"
+165,Jean de Florette (1986),jean florette,Drama
+166,Manon of the Spring (Manon des sources) (1986),manon spring manon des sources,Drama
+167,Private Benjamin (1980),private benjamin,Comedy
+168,Monty Python and the Holy Grail (1974),monty python holy grail,Comedy
+169,"Wrong Trousers, The (1993)",wrong trousers,"Animation, Comedy"
+170,Cinema Paradiso (1988),cinema paradiso,"Comedy, Drama, Romance"
+171,Delicatessen (1991),delicatessen,"Comedy, Sci-Fi"
+172,"Empire Strikes Back, The (1980)",empire strikes back,"Action, Adventure, Drama, Romance, Sci-Fi, War"
+173,"Princess Bride, The (1987)",princess bride,"Action, Adventure, Comedy, Romance"
+174,Raiders of the Lost Ark (1981),raiders lost ark,"Action, Adventure"
+175,Brazil (1985),brazil,Sci-Fi
+176,Aliens (1986),aliens,"Action, Sci-Fi, Thriller, War"
+177,"Good, The Bad and The Ugly, The (1966)",good bad ugly,"Action, Western"
+178,12 Angry Men (1957),angry men,Drama
+179,"Clockwork Orange, A (1971)",clockwork orange,Sci-Fi
+180,Apocalypse Now (1979),apocalypse,"Drama, War"
+181,Return of the Jedi (1983),return jedi,"Action, Adventure, Romance, Sci-Fi, War"
+182,GoodFellas (1990),goodfellas,"Crime, Drama"
+183,Alien (1979),alien,"Action, Horror, Sci-Fi, Thriller"
+184,Army of Darkness (1993),army darkness,"Action, Adventure, Comedy, Horror, Sci-Fi"
+185,Psycho (1960),psycho,"Horror, Romance, Thriller"
+186,"Blues Brothers, The (1980)",blues brothers,"Action, Comedy, Musical"
+187,"Godfather: Part II, The (1974)",godfather part,"Action, Crime, Drama"
+188,Full Metal Jacket (1987),full metal jacket,"Action, Drama, War"
+189,"Grand Day Out, A (1992)",grand day,"Animation, Comedy"
+190,Henry V (1989),henry,"Drama, War"
+191,Amadeus (1984),amadeus,"Drama, Mystery"
+192,Raging Bull (1980),raging bull,Drama
+193,"Right Stuff, The (1983)",right stuff,Drama
+194,"Sting, The (1973)",sting,"Comedy, Crime"
+195,"Terminator, The (1984)",terminator,"Action, Sci-Fi, Thriller"
+196,Dead Poets Society (1989),dead poets society,Drama
+197,"Graduate, The (1967)",graduate,"Drama, Romance"
+198,Nikita (La Femme Nikita) (1990),nikita femme nikita,Thriller
+199,"Bridge on the River Kwai, The (1957)",bridge river kwai,"Drama, War"
+200,"Shining, The (1980)",shining,Horror
+201,Evil Dead II (1987),evil dead,"Action, Adventure, Comedy, Horror"
+202,Groundhog Day (1993),groundhog day,"Comedy, Romance"
+203,Unforgiven (1992),unforgiven,Western
+204,Back to the Future (1985),back future,"Comedy, Sci-Fi"
+205,Patton (1970),patton,"Drama, War"
+206,Akira (1988),akira,"Adventure, Animation, Sci-Fi, Thriller"
+207,Cyrano de Bergerac (1990),cyrano bergerac,"Action, Drama, Romance"
+208,Young Frankenstein (1974),young frankenstein,"Comedy, Horror"
+209,This Is Spinal Tap (1984),spinal tap,"Comedy, Drama, Musical"
+210,Indiana Jones and the Last Crusade (1989),indiana jones last crusade,"Action, Adventure"
+211,M*A*S*H (1970),mash,"Comedy, War"
+212,"Unbearable Lightness of Being, The (1988)",unbearable lightness,Drama
+213,"Room with a View, A (1986)",room view,"Drama, Romance"
+214,Pink Floyd - The Wall (1982),pink floyd wall,"Drama, Musical, War"
+215,Field of Dreams (1989),field dreams,Drama
+216,When Harry Met Sally... (1989),harry met sally,"Comedy, Romance"
+217,Bram Stoker's Dracula (1992),bram stokers dracula,"Horror, Romance"
+218,Cape Fear (1991),cape fear,Thriller
+219,"Nightmare on Elm Street, A (1984)",nightmare elm street,Horror
+220,"Mirror Has Two Faces, The (1996)",mirror two faces,"Comedy, Romance"
+221,Breaking the Waves (1996),breaking waves,Drama
+222,Star Trek: First Contact (1996),star trek first contact,"Action, Adventure, Sci-Fi"
+223,Sling Blade (1996),sling blade,"Drama, Thriller"
+224,Ridicule (1996),ridicule,Drama
+225,101 Dalmatians (1996),101 dalmatians,"Children, Comedy"
+226,Die Hard 2 (1990),die hard,"Action, Thriller"
+227,Star Trek VI: The Undiscovered Country (1991),star trek undiscovered country,"Action, Adventure, Sci-Fi"
+228,Star Trek: The Wrath of Khan (1982),star trek wrath khan,"Action, Adventure, Sci-Fi"
+229,Star Trek III: The Search for Spock (1984),star trek iii search spock,"Action, Adventure, Sci-Fi"
+230,Star Trek IV: The Voyage Home (1986),star trek voyage home,"Action, Adventure, Sci-Fi"
+231,Batman Returns (1992),batman returns,"Action, Adventure, Comedy, Crime"
+232,Young Guns (1988),young guns,"Action, Comedy, Western"
+233,Under Siege (1992),siege,Action
+234,Jaws (1975),jaws,"Action, Horror"
+235,Mars Attacks! (1996),mars attacks,"Action, Comedy, Sci-Fi, War"
+236,Citizen Ruth (1996),citizen ruth,"Comedy, Drama"
+237,Jerry Maguire (1996),jerry maguire,"Drama, Romance"
+238,Raising Arizona (1987),raising arizona,Comedy
+239,Sneakers (1992),sneakers,"Crime, Drama, Sci-Fi"
+240,Beavis and Butt-head Do America (1996),beavis butthead america,"Animation, Comedy"
+241,"Last of the Mohicans, The (1992)",last mohicans,"Action, Romance, War"
+242,Kolya (1996),kolya,Comedy
+243,Jungle2Jungle (1997),jungle2jungle,"Children, Comedy"
+244,Smilla's Sense of Snow (1997),smillas sense snow,"Action, Drama, Thriller"
+245,"Devil's Own, The (1997)",devils,"Action, Drama, Thriller, War"
+246,Chasing Amy (1997),chasing amy,"Drama, Romance"
+247,Turbo: A Power Rangers Movie (1997),turbo power rangers movie,"Action, Adventure, Children"
+248,Grosse Pointe Blank (1997),grosse pointe blank,"Comedy, Crime"
+249,Austin Powers: International Man of Mystery (1997),austin powers international man mystery,Comedy
+250,"Fifth Element, The (1997)",fifth element,"Action, Sci-Fi"
+251,Shall We Dance? (1996),shall dance,Comedy
+252,"Lost World: Jurassic Park, The (1997)",lost world jurassic park,"Action, Adventure, Sci-Fi, Thriller"
+253,"Pillow Book, The (1995)",pillow book,"Drama, Romance"
+254,Batman & Robin (1997),batman robin,"Action, Adventure, Crime"
+255,My Best Friend's Wedding (1997),best friends wedding,"Comedy, Romance"
+256,When the Cats Away (Chacun cherche son chat) (1996),cats away chacun cherche son chat,"Comedy, Romance"
+257,Men in Black (1997),men black,"Action, Adventure, Comedy, Sci-Fi"
+258,Contact (1997),contact,"Drama, Sci-Fi"
+259,George of the Jungle (1997),george jungle,"Children, Comedy"
+260,Event Horizon (1997),event horizon,"Action, Mystery, Sci-Fi, Thriller"
+261,Air Bud (1997),air bud,"Children, Comedy"
+262,In the Company of Men (1997),company men,Drama
+263,Steel (1997),steel,Action
+264,Mimic (1997),mimic,"Sci-Fi, Thriller"
+265,"Hunt for Red October, The (1990)",hunt red october,"Action, Thriller"
+266,Kull the Conqueror (1997),kull conqueror,"Action, Adventure"
+267,unknown,unknown,unknown
+268,Chasing Amy (1997),chasing amy,"Drama, Romance"
+269,"Full Monty, The (1997)",full monty,Comedy
+270,Gattaca (1997),gattaca,"Drama, Sci-Fi, Thriller"
+271,Starship Troopers (1997),starship troopers,"Action, Adventure, Sci-Fi, War"
+272,Good Will Hunting (1997),good hunting,Drama
+273,Heat (1995),heat,"Action, Crime, Thriller"
+274,Sabrina (1995),sabrina,"Comedy, Romance"
+275,Sense and Sensibility (1995),sense sensibility,"Drama, Romance"
+276,Leaving Las Vegas (1995),leaving las vegas,"Drama, Romance"
+277,Restoration (1995),restoration,Drama
+278,Bed of Roses (1996),bed roses,"Drama, Romance"
+279,Once Upon a Time... When We Were Colored (1995),upon time colored,Drama
+280,Up Close and Personal (1996),close personal,"Drama, Romance"
+281,"River Wild, The (1994)",river wild,"Action, Thriller"
+282,"Time to Kill, A (1996)",time kill,Drama
+283,Emma (1996),emma,"Drama, Romance"
+284,Tin Cup (1996),tin cup,"Comedy, Romance"
+285,Secrets & Lies (1996),secrets lies,Drama
+286,"English Patient, The (1996)",english patient,"Drama, Romance, War"
+287,Marvin's Room (1996),marvins room,Drama
+288,Scream (1996),scream,"Horror, Thriller"
+289,Evita (1996),evita,"Drama, Musical"
+290,Fierce Creatures (1997),fierce creatures,Comedy
+291,Absolute Power (1997),absolute power,"Mystery, Thriller"
+292,Rosewood (1997),rosewood,Drama
+293,Donnie Brasco (1997),donnie brasco,"Crime, Drama"
+294,Liar Liar (1997),liar liar,Comedy
+295,Breakdown (1997),breakdown,"Action, Thriller"
+296,"Promesse, La (1996)",promesse,Drama
+297,Ulee's Gold (1997),ulees gold,Drama
+298,Face/Off (1997),faceoff,"Action, Sci-Fi, Thriller"
+299,Hoodlum (1997),hoodlum,"Crime, Drama, Film-Noir"
+300,Air Force One (1997),air force one,"Action, Thriller"
+301,In & Out (1997),,Comedy
+302,L.A. Confidential (1997),confidential,"Crime, Film-Noir, Mystery, Thriller"
+303,Ulee's Gold (1997),ulees gold,Drama
+304,Fly Away Home (1996),fly away home,"Adventure, Children"
+305,"Ice Storm, The (1997)",ice storm,Drama
+306,"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",mrs brown majesty mrs brown,"Drama, Romance"
+307,"Devil's Advocate, The (1997)",devils advocate,"Crime, Horror, Mystery, Thriller"
+308,FairyTale: A True Story (1997),fairytale true story,"Children, Drama, Fantasy"
+309,Deceiver (1997),deceiver,Crime
+310,"Rainmaker, The (1997)",rainmaker,Drama
+311,"Wings of the Dove, The (1997)",wings dove,"Drama, Romance, Thriller"
+312,Midnight in the Garden of Good and Evil (1997),midnight garden good evil,"Comedy, Crime, Drama, Mystery"
+313,Titanic (1997),titanic,"Action, Drama, Romance"
+314,3 Ninjas: High Noon At Mega Mountain (1998),ninjas high noon mega mountain,"Action, Children"
+315,Apt Pupil (1998),apt pupil,"Drama, Thriller"
+316,As Good As It Gets (1997),good gets,"Comedy, Drama"
+317,In the Name of the Father (1993),name father,Drama
+318,Schindler's List (1993),schindlers list,"Drama, War"
+319,Everyone Says I Love You (1996),everyone says love,"Comedy, Musical, Romance"
+320,Paradise Lost: The Child Murders at Robin Hood Hills (1996),paradise lost child murders robin hood hills,Documentary
+321,Mother (1996),mother,Comedy
+322,Murder at 1600 (1997),murder 1600,"Mystery, Thriller"
+323,Dante's Peak (1997),dantes peak,"Action, Thriller"
+324,Lost Highway (1997),lost highway,Mystery
+325,Crash (1996),crash,"Drama, Thriller"
+326,G.I. Jane (1997),jane,"Action, Drama, War"
+327,Cop Land (1997),cop land,"Crime, Drama, Mystery"
+328,Conspiracy Theory (1997),conspiracy theory,"Action, Mystery, Romance, Thriller"
+329,Desperate Measures (1998),desperate measures,"Crime, Drama, Thriller"
+330,187 (1997),187,Drama
+331,"Edge, The (1997)",edge,"Adventure, Thriller"
+332,Kiss the Girls (1997),kiss girls,"Crime, Drama, Thriller"
+333,"Game, The (1997)",game,"Mystery, Thriller"
+334,U Turn (1997),turn,"Action, Crime, Mystery"
+335,How to Be a Player (1997),player,Comedy
+336,Playing God (1997),playing god,"Crime, Thriller"
+337,"House of Yes, The (1997)",house yes,"Comedy, Drama, Thriller"
+338,Bean (1997),bean,Comedy
+339,Mad City (1997),mad city,"Action, Drama"
+340,Boogie Nights (1997),boogie nights,Drama
+341,Critical Care (1997),critical care,Comedy
+342,"Man Who Knew Too Little, The (1997)",man knew little,"Comedy, Mystery"
+343,Alien: Resurrection (1997),alien resurrection,"Action, Horror, Sci-Fi"
+344,"Apostle, The (1997)",apostle,Drama
+345,Deconstructing Harry (1997),deconstructing harry,"Comedy, Drama"
+346,Jackie Brown (1997),jackie brown,"Crime, Drama"
+347,Wag the Dog (1997),wag dog,"Comedy, Drama"
+348,Desperate Measures (1998),desperate measures,"Crime, Drama, Thriller"
+349,Hard Rain (1998),hard rain,"Action, Thriller"
+350,Fallen (1998),fallen,"Action, Mystery, Thriller"
+351,"Prophecy II, The (1998)",prophecy,Horror
+352,Spice World (1997),spice world,"Comedy, Musical"
+353,Deep Rising (1998),deep rising,"Action, Horror, Sci-Fi"
+354,"Wedding Singer, The (1998)",wedding singer,"Comedy, Romance"
+355,Sphere (1998),sphere,"Adventure, Sci-Fi, Thriller"
+356,"Client, The (1994)",client,"Drama, Mystery, Thriller"
+357,One Flew Over the Cuckoo's Nest (1975),one flew cuckoos nest,Drama
+358,Spawn (1997),spawn,"Action, Adventure, Sci-Fi, Thriller"
+359,"Assignment, The (1997)",assignment,Thriller
+360,Wonderland (1997),wonderland,Documentary
+361,Incognito (1997),incognito,"Crime, Thriller"
+362,Blues Brothers 2000 (1998),blues brothers 2000,"Action, Comedy, Musical"
+363,Sudden Death (1995),sudden death,Action
+364,Ace Ventura: When Nature Calls (1995),ace ventura nature calls,Comedy
+365,Powder (1995),powder,Drama
+366,Dangerous Minds (1995),dangerous minds,Drama
+367,Clueless (1995),clueless,Comedy
+368,Bio-Dome (1996),biodome,Comedy
+369,Black Sheep (1996),black sheep,Comedy
+370,Mary Reilly (1996),mary reilly,"Drama, Thriller"
+371,"Bridges of Madison County, The (1995)",bridges madison county,"Drama, Romance"
+372,Jeffrey (1995),jeffrey,Comedy
+373,Judge Dredd (1995),judge dredd,"Action, Adventure, Sci-Fi"
+374,Mighty Morphin Power Rangers: The Movie (1995),mighty morphin power rangers movie,"Action, Children"
+375,Showgirls (1995),showgirls,Drama
+376,Houseguest (1994),houseguest,Comedy
+377,Heavyweights (1994),heavyweights,"Children, Comedy"
+378,Miracle on 34th Street (1994),miracle 34th street,Drama
+379,Tales From the Crypt Presents: Demon Knight (1995),tales crypt presents demon knight,Horror
+380,Star Trek: Generations (1994),star trek generations,"Action, Adventure, Sci-Fi"
+381,Muriel's Wedding (1994),muriels wedding,"Comedy, Romance"
+382,"Adventures of Priscilla, Queen of the Desert, The (1994)",adventures priscilla queen desert,"Comedy, Drama"
+383,"Flintstones, The (1994)",flintstones,"Children, Comedy"
+384,Naked Gun 33 1/3: The Final Insult (1994),naked gun final insult,Comedy
+385,True Lies (1994),true lies,"Action, Adventure, Comedy, Romance"
+386,Addams Family Values (1993),addams family values,Comedy
+387,"Age of Innocence, The (1993)",age innocence,Drama
+388,Beverly Hills Cop III (1994),beverly hills cop iii,"Action, Comedy"
+389,Black Beauty (1994),black beauty,"Adventure, Children"
+390,Fear of a Black Hat (1993),fear black hat,Comedy
+391,Last Action Hero (1993),last action hero,"Action, Comedy"
+392,"Man Without a Face, The (1993)",man without face,Drama
+393,Mrs. Doubtfire (1993),mrs doubtfire,Comedy
+394,Radioland Murders (1994),radioland murders,"Comedy, Mystery, Romance"
+395,Robin Hood: Men in Tights (1993),robin hood men tights,Comedy
+396,Serial Mom (1994),serial mom,"Comedy, Crime, Horror"
+397,Striking Distance (1993),striking distance,Action
+398,Super Mario Bros. (1993),super mario bros,"Action, Adventure, Children, Sci-Fi"
+399,"Three Musketeers, The (1993)",three musketeers,"Action, Adventure, Comedy"
+400,"Little Rascals, The (1994)",little rascals,"Children, Comedy"
+401,"Brady Bunch Movie, The (1995)",brady bunch movie,Comedy
+402,Ghost (1990),ghost,"Comedy, Romance, Thriller"
+403,Batman (1989),batman,"Action, Adventure, Crime, Drama"
+404,Pinocchio (1940),pinocchio,"Animation, Children"
+405,Mission: Impossible (1996),mission impossible,"Action, Adventure, Mystery"
+406,Thinner (1996),thinner,"Horror, Thriller"
+407,Spy Hard (1996),spy hard,Comedy
+408,"Close Shave, A (1995)",close shave,"Animation, Comedy, Thriller"
+409,Jack (1996),jack,"Comedy, Drama"
+410,Kingpin (1996),kingpin,Comedy
+411,"Nutty Professor, The (1996)",nutty professor,"Comedy, Fantasy, Romance, Sci-Fi"
+412,"Very Brady Sequel, A (1996)",brady sequel,Comedy
+413,Tales from the Crypt Presents: Bordello of Blood (1996),tales crypt presents bordello blood,Horror
+414,My Favorite Year (1982),favorite year,Comedy
+415,"Apple Dumpling Gang, The (1975)",apple dumpling gang,"Children, Comedy, Western"
+416,Old Yeller (1957),old yeller,"Children, Drama"
+417,"Parent Trap, The (1961)",parent trap,"Children, Drama"
+418,Cinderella (1950),cinderella,"Animation, Children, Musical"
+419,Mary Poppins (1964),mary poppins,"Children, Comedy, Musical"
+420,Alice in Wonderland (1951),alice wonderland,"Animation, Children, Musical"
+421,William Shakespeare's Romeo and Juliet (1996),william shakespeares romeo juliet,"Drama, Romance"
+422,Aladdin and the King of Thieves (1996),aladdin king thieves,"Animation, Children, Comedy"
+423,E.T. the Extra-Terrestrial (1982),extraterrestrial,"Children, Drama, Fantasy, Sci-Fi"
+424,Children of the Corn: The Gathering (1996),children corn gathering,Horror
+425,Bob Roberts (1992),bob roberts,Comedy
+426,"Transformers: The Movie, The (1986)",transformers movie,"Action, Animation, Children, Sci-Fi, Thriller, War"
+427,To Kill a Mockingbird (1962),kill mockingbird,Drama
+428,Harold and Maude (1971),harold maude,Comedy
+429,"Day the Earth Stood Still, The (1951)",day earth stood still,"Drama, Sci-Fi"
+430,Duck Soup (1933),duck soup,"Comedy, War"
+431,Highlander (1986),highlander,"Action, Adventure"
+432,Fantasia (1940),fantasia,"Animation, Children, Musical"
+433,Heathers (1989),heathers,Comedy
+434,Forbidden Planet (1956),forbidden planet,Sci-Fi
+435,Butch Cassidy and the Sundance Kid (1969),butch cassidy sundance kid,"Action, Comedy, Western"
+436,"American Werewolf in London, An (1981)",american werewolf london,Horror
+437,Amityville 1992: It's About Time (1992),amityville 1992 time,Horror
+438,Amityville 3-D (1983),amityville,Horror
+439,Amityville: A New Generation (1993),amityville new generation,Horror
+440,Amityville II: The Possession (1982),amityville possession,Horror
+441,"Amityville Horror, The (1979)",amityville horror,Horror
+442,"Amityville Curse, The (1990)",amityville curse,Horror
+443,"Birds, The (1963)",birds,Horror
+444,"Blob, The (1958)",blob,"Horror, Sci-Fi"
+445,"Body Snatcher, The (1945)",body snatcher,Horror
+446,Burnt Offerings (1976),burnt offerings,Horror
+447,Carrie (1976),carrie,Horror
+448,"Omen, The (1976)",omen,Horror
+449,Star Trek: The Motion Picture (1979),star trek motion picture,"Action, Adventure, Sci-Fi"
+450,Star Trek V: The Final Frontier (1989),star trek final frontier,"Action, Adventure, Sci-Fi"
+451,Grease (1978),grease,"Comedy, Musical, Romance"
+452,Jaws 2 (1978),jaws,"Action, Horror"
+453,Jaws 3-D (1983),jaws,"Action, Horror"
+454,Bastard Out of Carolina (1996),bastard carolina,Drama
+455,Jackie Chan's First Strike (1996),jackie chans first strike,Action
+456,Beverly Hills Ninja (1997),beverly hills ninja,"Action, Comedy"
+457,Free Willy 3: The Rescue (1997),free willy rescue,"Adventure, Children, Drama"
+458,Nixon (1995),nixon,Drama
+459,"Cry, the Beloved Country (1995)",cry beloved country,Drama
+460,"Crossing Guard, The (1995)",crossing guard,Drama
+461,Smoke (1995),smoke,Drama
+462,Like Water For Chocolate (Como agua para chocolate) (1992),like water chocolate como agua para chocolate,"Drama, Romance"
+463,"Secret of Roan Inish, The (1994)",secret roan inish,Adventure
+464,Vanya on 42nd Street (1994),vanya 42nd street,Drama
+465,"Jungle Book, The (1994)",jungle book,"Adventure, Children, Romance"
+466,Red Rock West (1992),red rock west,Thriller
+467,"Bronx Tale, A (1993)",bronx tale,Drama
+468,Rudy (1993),rudy,Drama
+469,Short Cuts (1993),short cuts,Drama
+470,Tombstone (1993),tombstone,Western
+471,Courage Under Fire (1996),courage fire,"Drama, War"
+472,Dragonheart (1996),dragonheart,"Action, Adventure, Fantasy"
+473,James and the Giant Peach (1996),james giant peach,"Animation, Children, Musical"
+474,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),strangelove learned stop worrying love bomb,"Sci-Fi, War"
+475,Trainspotting (1996),trainspotting,Drama
+476,"First Wives Club, The (1996)",first wives club,Comedy
+477,Matilda (1996),matilda,"Children, Comedy"
+478,"Philadelphia Story, The (1940)",philadelphia story,"Comedy, Romance"
+479,Vertigo (1958),vertigo,"Mystery, Thriller"
+480,North by Northwest (1959),north northwest,"Comedy, Thriller"
+481,"Apartment, The (1960)",apartment,"Comedy, Drama"
+482,Some Like It Hot (1959),like hot,"Comedy, Crime"
+483,Casablanca (1942),casablanca,"Drama, Romance, War"
+484,"Maltese Falcon, The (1941)",maltese falcon,"Film-Noir, Mystery"
+485,My Fair Lady (1964),fair lady,"Musical, Romance"
+486,Sabrina (1954),sabrina,"Comedy, Romance"
+487,Roman Holiday (1953),roman holiday,"Comedy, Romance"
+488,Sunset Blvd. (1950),sunset blvd,Film-Noir
+489,Notorious (1946),notorious,"Film-Noir, Romance, Thriller"
+490,To Catch a Thief (1955),catch thief,"Comedy, Romance, Thriller"
+491,"Adventures of Robin Hood, The (1938)",adventures robin hood,"Action, Adventure"
+492,East of Eden (1955),east eden,Drama
+493,"Thin Man, The (1934)",thin man,Mystery
+494,His Girl Friday (1940),girl friday,Comedy
+495,Around the World in 80 Days (1956),around world days,"Adventure, Comedy"
+496,It's a Wonderful Life (1946),wonderful life,Drama
+497,Bringing Up Baby (1938),bringing baby,Comedy
+498,"African Queen, The (1951)",african queen,"Action, Adventure, Romance, War"
+499,Cat on a Hot Tin Roof (1958),cat hot tin roof,Drama
+500,Fly Away Home (1996),fly away home,"Adventure, Children"
+501,Dumbo (1941),dumbo,"Animation, Children, Musical"
+502,Bananas (1971),bananas,"Comedy, War"
+503,"Candidate, The (1972)",candidate,Drama
+504,Bonnie and Clyde (1967),bonnie clyde,"Crime, Drama"
+505,Dial M for Murder (1954),dial murder,"Mystery, Thriller"
+506,Rebel Without a Cause (1955),rebel without cause,Drama
+507,"Streetcar Named Desire, A (1951)",streetcar named desire,Drama
+508,"People vs. Larry Flynt, The (1996)",people larry flynt,Drama
+509,My Left Foot (1989),left foot,Drama
+510,"Magnificent Seven, The (1954)",magnificent seven,"Action, Drama, Western"
+511,Lawrence of Arabia (1962),lawrence arabia,"Adventure, War"
+512,Wings of Desire (1987),wings desire,"Comedy, Drama, Romance"
+513,"Third Man, The (1949)",third man,"Mystery, Thriller"
+514,Annie Hall (1977),annie hall,"Comedy, Romance"
+515,"Boot, Das (1981)",boot das,"Action, Drama, War"
+516,Local Hero (1983),local hero,Comedy
+517,Manhattan (1979),manhattan,"Comedy, Drama, Romance"
+518,Miller's Crossing (1990),millers crossing,Drama
+519,"Treasure of the Sierra Madre, The (1948)",treasure sierra madre,Adventure
+520,"Great Escape, The (1963)",great escape,"Adventure, War"
+521,"Deer Hunter, The (1978)",deer hunter,"Drama, War"
+522,Down by Law (1986),law,"Comedy, Drama"
+523,Cool Hand Luke (1967),cool hand luke,"Comedy, Drama"
+524,"Great Dictator, The (1940)",great dictator,Comedy
+525,"Big Sleep, The (1946)",big sleep,"Film-Noir, Mystery"
+526,Ben-Hur (1959),benhur,"Action, Adventure, Drama"
+527,Gandhi (1982),gandhi,Drama
+528,"Killing Fields, The (1984)",killing fields,"Drama, War"
+529,My Life as a Dog (Mitt liv som hund) (1985),life dog mitt liv som hund,Drama
+530,"Man Who Would Be King, The (1975)",man would king,Adventure
+531,Shine (1996),shine,"Drama, Romance"
+532,Kama Sutra: A Tale of Love (1996),kama sutra tale love,Romance
+533,"Daytrippers, The (1996)",daytrippers,Mystery
+534,Traveller (1997),traveller,Drama
+535,Addicted to Love (1997),addicted love,"Comedy, Romance"
+536,Ponette (1996),ponette,Drama
+537,My Own Private Idaho (1991),private idaho,Drama
+538,Anastasia (1997),anastasia,"Animation, Children, Musical"
+539,Mouse Hunt (1997),mouse hunt,"Children, Comedy"
+540,Money Train (1995),money train,Action
+541,Mortal Kombat (1995),mortal kombat,"Action, Adventure"
+542,Pocahontas (1995),pocahontas,"Animation, Children, Musical, Romance"
+543,"Misérables, Les (1995)",misérables les,"Drama, Musical"
+544,Things to Do in Denver when You're Dead (1995),things denver youre dead,"Crime, Drama, Romance"
+545,Vampire in Brooklyn (1995),vampire brooklyn,"Comedy, Romance"
+546,Broken Arrow (1996),broken arrow,"Action, Thriller"
+547,"Young Poisoner's Handbook, The (1995)",young poisoners handbook,Crime
+548,"NeverEnding Story III, The (1994)",neverending story iii,"Children, Fantasy"
+549,Rob Roy (1995),rob roy,"Drama, Romance, War"
+550,Die Hard: With a Vengeance (1995),die hard vengeance,"Action, Thriller"
+551,Lord of Illusions (1995),lord illusions,Horror
+552,Species (1995),species,Sci-Fi
+553,"Walk in the Clouds, A (1995)",walk clouds,"Drama, Romance"
+554,Waterworld (1995),waterworld,"Action, Adventure"
+555,White Man's Burden (1995),white mans burden,Drama
+556,Wild Bill (1995),wild bill,Western
+557,Farinelli: il castrato (1994),farinelli castrato,"Drama, Musical"
+558,Heavenly Creatures (1994),heavenly creatures,"Drama, Fantasy, Thriller"
+559,Interview with the Vampire (1994),interview vampire,"Drama, Horror"
+560,"Kid in King Arthur's Court, A (1995)",kid king arthurs court,"Adventure, Children, Comedy, Fantasy, Romance, Sci-Fi"
+561,Mary Shelley's Frankenstein (1994),mary shelleys frankenstein,"Drama, Horror"
+562,"Quick and the Dead, The (1995)",quick dead,"Action, Adventure, Western"
+563,Stephen King's The Langoliers (1995),stephen kings langoliers,Horror
+564,Tales from the Hood (1995),tales hood,"Comedy, Horror"
+565,Village of the Damned (1995),village damned,"Horror, Thriller"
+566,Clear and Present Danger (1994),clear present danger,"Action, Adventure, Thriller"
+567,Wes Craven's New Nightmare (1994),wes cravens new nightmare,Horror
+568,Speed (1994),speed,"Action, Romance, Thriller"
+569,Wolf (1994),wolf,"Drama, Horror"
+570,Wyatt Earp (1994),wyatt earp,Western
+571,Another Stakeout (1993),another stakeout,"Comedy, Thriller"
+572,Blown Away (1994),blown away,"Action, Thriller"
+573,Body Snatchers (1993),body snatchers,"Horror, Sci-Fi, Thriller"
+574,Boxing Helena (1993),boxing helena,"Mystery, Romance, Thriller"
+575,City Slickers II: The Legend of Curly's Gold (1994),city slickers legend curlys gold,"Comedy, Western"
+576,Cliffhanger (1993),cliffhanger,"Action, Adventure, Crime"
+577,Coneheads (1993),coneheads,"Comedy, Sci-Fi"
+578,Demolition Man (1993),demolition man,"Action, Sci-Fi"
+579,Fatal Instinct (1993),fatal instinct,Comedy
+580,"Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)",englishman went hill came mountain,"Comedy, Romance"
+581,Kalifornia (1993),kalifornia,"Drama, Thriller"
+582,"Piano, The (1993)",piano,"Drama, Romance"
+583,Romeo Is Bleeding (1993),romeo bleeding,"Crime, Thriller"
+584,"Secret Garden, The (1993)",secret garden,"Children, Drama"
+585,Son in Law (1993),son law,Comedy
+586,Terminal Velocity (1994),terminal velocity,Action
+587,"Hour of the Pig, The (1993)",hour pig,"Drama, Mystery"
+588,Beauty and the Beast (1991),beauty beast,"Animation, Children, Musical"
+589,"Wild Bunch, The (1969)",wild bunch,Western
+590,Hellraiser: Bloodline (1996),hellraiser bloodline,"Action, Horror, Sci-Fi"
+591,Primal Fear (1996),primal fear,"Drama, Thriller"
+592,True Crime (1995),true crime,"Mystery, Thriller"
+593,Stalingrad (1993),stalingrad,War
+594,Heavy (1995),heavy,"Drama, Romance"
+595,"Fan, The (1996)",fan,Thriller
+596,"Hunchback of Notre Dame, The (1996)",hunchback notre dame,"Animation, Children, Musical"
+597,Eraser (1996),eraser,"Action, Thriller"
+598,"Big Squeeze, The (1996)",big squeeze,"Comedy, Drama"
+599,Police Story 4: Project S (Chao ji ji hua) (1993),police story project chao hua,Action
+600,Daniel Defoe's Robinson Crusoe (1996),daniel defoes robinson crusoe,Children
+601,For Whom the Bell Tolls (1943),bell tolls,"Adventure, War"
+602,"American in Paris, An (1951)",american paris,"Musical, Romance"
+603,Rear Window (1954),rear window,"Mystery, Thriller"
+604,It Happened One Night (1934),happened one night,Comedy
+605,Meet Me in St. Louis (1944),meet louis,Musical
+606,All About Eve (1950),eve,Drama
+607,Rebecca (1940),rebecca,"Romance, Thriller"
+608,Spellbound (1945),spellbound,"Mystery, Romance, Thriller"
+609,Father of the Bride (1950),father bride,Comedy
+610,Gigi (1958),gigi,Musical
+611,Laura (1944),laura,"Crime, Film-Noir, Mystery"
+612,Lost Horizon (1937),lost horizon,Drama
+613,My Man Godfrey (1936),man godfrey,Comedy
+614,Giant (1956),giant,Drama
+615,"39 Steps, The (1935)",steps,Thriller
+616,Night of the Living Dead (1968),night living dead,"Horror, Sci-Fi"
+617,"Blue Angel, The (Blaue Engel, Der) (1930)",blue angel blaue engel der,Drama
+618,Picnic (1955),picnic,Drama
+619,Extreme Measures (1996),extreme measures,"Drama, Thriller"
+620,"Chamber, The (1996)",chamber,Drama
+621,"Davy Crockett, King of the Wild Frontier (1955)",davy crockett king wild frontier,Western
+622,Swiss Family Robinson (1960),swiss family robinson,"Adventure, Children"
+623,Angels in the Outfield (1994),angels outfield,"Children, Comedy"
+624,"Three Caballeros, The (1945)",three caballeros,"Animation, Children, Musical"
+625,"Sword in the Stone, The (1963)",sword stone,"Animation, Children"
+626,So Dear to My Heart (1949),dear heart,"Children, Drama"
+627,Robin Hood: Prince of Thieves (1991),robin hood prince thieves,Drama
+628,Sleepers (1996),sleepers,"Crime, Drama"
+629,Victor/Victoria (1982),victorvictoria,"Comedy, Musical"
+630,"Great Race, The (1965)",great race,"Comedy, Musical"
+631,"Crying Game, The (1992)",crying game,"Action, Drama, Romance, War"
+632,Sophie's Choice (1982),sophies choice,Drama
+633,"Christmas Carol, A (1938)",christmas carol,Drama
+634,Microcosmos: Le peuple de l'herbe (1996),microcosmos peuple lherbe,Documentary
+635,"Fog, The (1980)",fog,Horror
+636,Escape from New York (1981),escape new york,"Action, Adventure, Sci-Fi, Thriller"
+637,"Howling, The (1981)",howling,"Comedy, Horror"
+638,"Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)",return martin guerre retour martin guerre,Drama
+639,"Tin Drum, The (Blechtrommel, Die) (1979)",tin drum blechtrommel die,Drama
+640,"Cook the Thief His Wife & Her Lover, The (1989)",cook thief wife lover,Drama
+641,Paths of Glory (1957),paths glory,"Drama, War"
+642,"Grifters, The (1990)",grifters,"Crime, Drama, Film-Noir"
+643,The Innocent (1994),innocent,"Drama, Romance"
+644,"Thin Blue Line, The (1988)",thin blue line,Documentary
+645,Paris Is Burning (1990),paris burning,Documentary
+646,Once Upon a Time in the West (1969),upon time west,Western
+647,Ran (1985),ran,"Drama, War"
+648,"Quiet Man, The (1952)",quiet man,"Comedy, Romance"
+649,Once Upon a Time in America (1984),upon time america,"Crime, Drama, Thriller"
+650,"Seventh Seal, The (Sjunde inseglet, Det) (1957)",seventh seal sjunde inseglet det,Drama
+651,Glory (1989),glory,"Action, Drama, War"
+652,Rosencrantz and Guildenstern Are Dead (1990),rosencrantz guildenstern dead,"Comedy, Drama"
+653,Touch of Evil (1958),touch evil,"Crime, Film-Noir, Thriller"
+654,Chinatown (1974),chinatown,"Film-Noir, Mystery, Thriller"
+655,Stand by Me (1986),stand,"Adventure, Comedy, Drama"
+656,M (1931),,"Crime, Film-Noir, Thriller"
+657,"Manchurian Candidate, The (1962)",manchurian candidate,"Film-Noir, Thriller"
+658,Pump Up the Volume (1990),pump volume,Drama
+659,Arsenic and Old Lace (1944),arsenic old lace,"Comedy, Mystery, Thriller"
+660,Fried Green Tomatoes (1991),fried green tomatoes,Drama
+661,High Noon (1952),high noon,Western
+662,Somewhere in Time (1980),somewhere time,"Drama, Romance"
+663,Being There (1979),,Comedy
+664,"Paris, Texas (1984)",paris texas,Drama
+665,Alien 3 (1992),alien,"Action, Horror, Sci-Fi, Thriller"
+666,Blood For Dracula (Andy Warhol's Dracula) (1974),blood dracula andy warhols dracula,Horror
+667,Audrey Rose (1977),audrey rose,Horror
+668,Blood Beach (1981),blood beach,"Action, Horror"
+669,Body Parts (1991),body parts,Horror
+670,Body Snatchers (1993),body snatchers,"Horror, Sci-Fi, Thriller"
+671,Bride of Frankenstein (1935),bride frankenstein,Horror
+672,Candyman (1992),candyman,Horror
+673,Cape Fear (1962),cape fear,"Film-Noir, Thriller"
+674,Cat People (1982),cat people,Horror
+675,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",nosferatu nosferatu eine symphonie des grauens,Horror
+676,"Crucible, The (1996)",crucible,Drama
+677,Fire on the Mountain (1996),fire mountain,Documentary
+678,Volcano (1997),volcano,"Drama, Thriller"
+679,Conan the Barbarian (1981),conan barbarian,"Action, Adventure"
+680,Kull the Conqueror (1997),kull conqueror,"Action, Adventure"
+681,Wishmaster (1997),wishmaster,Horror
+682,I Know What You Did Last Summer (1997),know last summer,"Horror, Mystery, Thriller"
+683,Rocket Man (1997),rocket man,Comedy
+684,In the Line of Fire (1993),line fire,"Action, Thriller"
+685,Executive Decision (1996),executive decision,"Action, Thriller"
+686,"Perfect World, A (1993)",perfect world,"Action, Drama"
+687,McHale's Navy (1997),mchales navy,"Comedy, War"
+688,Leave It to Beaver (1997),leave beaver,Comedy
+689,"Jackal, The (1997)",jackal,"Action, Thriller"
+690,Seven Years in Tibet (1997),seven years tibet,"Drama, War"
+691,Dark City (1998),dark city,"Film-Noir, Sci-Fi, Thriller"
+692,"American President, The (1995)",american president,"Comedy, Drama, Romance"
+693,Casino (1995),casino,Drama
+694,Persuasion (1995),persuasion,Romance
+695,Kicking and Screaming (1995),kicking screaming,"Comedy, Drama"
+696,City Hall (1996),city hall,"Drama, Thriller"
+697,"Basketball Diaries, The (1995)",basketball diaries,Drama
+698,"Browning Version, The (1994)",browning version,Drama
+699,Little Women (1994),little women,Drama
+700,Miami Rhapsody (1995),miami rhapsody,Comedy
+701,"Wonderful, Horrible Life of Leni Riefenstahl, The (1993)",wonderful horrible life leni riefenstahl,Documentary
+702,Barcelona (1994),barcelona,"Comedy, Romance"
+703,Widows' Peak (1994),widows peak,Drama
+704,"House of the Spirits, The (1993)",house spirits,"Drama, Romance"
+705,Singin' in the Rain (1952),singin rain,"Musical, Romance"
+706,Bad Moon (1996),bad moon,Horror
+707,Enchanted April (1991),enchanted april,Drama
+708,"Sex, Lies, and Videotape (1989)",sex lies videotape,Drama
+709,Strictly Ballroom (1992),strictly ballroom,"Comedy, Romance"
+710,Better Off Dead... (1985),better dead,Comedy
+711,"Substance of Fire, The (1996)",substance fire,Drama
+712,Tin Men (1987),tin men,"Comedy, Drama"
+713,Othello (1995),othello,Drama
+714,Carrington (1995),carrington,"Drama, Romance"
+715,To Die For (1995),die,"Comedy, Drama"
+716,Home for the Holidays (1995),home holidays,"Drama, Romance"
+717,"Juror, The (1996)",juror,"Drama, Thriller"
+718,In the Bleak Midwinter (1995),bleak midwinter,Comedy
+719,Canadian Bacon (1994),canadian bacon,"Comedy, War"
+720,First Knight (1995),first knight,"Action, Adventure, Drama, Romance"
+721,Mallrats (1995),mallrats,Comedy
+722,Nine Months (1995),nine months,Comedy
+723,Boys on the Side (1995),boys side,"Comedy, Drama"
+724,Circle of Friends (1995),circle friends,"Drama, Romance"
+725,Exit to Eden (1994),exit eden,Comedy
+726,Fluke (1995),fluke,"Children, Drama"
+727,Immortal Beloved (1994),immortal beloved,"Drama, Romance"
+728,Junior (1994),junior,"Comedy, Sci-Fi"
+729,Nell (1994),nell,Drama
+730,"Queen Margot (Reine Margot, La) (1994)",queen margot reine margot,"Drama, Romance"
+731,"Corrina, Corrina (1994)",corrina corrina,"Comedy, Drama, Romance"
+732,Dave (1993),dave,"Comedy, Romance"
+733,Go Fish (1994),fish,"Drama, Romance"
+734,Made in America (1993),made america,Comedy
+735,Philadelphia (1993),philadelphia,Drama
+736,Shadowlands (1993),shadowlands,"Drama, Romance"
+737,Sirens (1994),sirens,"Comedy, Drama"
+738,Threesome (1994),threesome,"Comedy, Romance"
+739,Pretty Woman (1990),pretty woman,"Comedy, Romance"
+740,Jane Eyre (1996),jane eyre,"Drama, Romance"
+741,"Last Supper, The (1995)",last supper,"Drama, Thriller"
+742,Ransom (1996),ransom,"Drama, Thriller"
+743,"Crow: City of Angels, The (1996)",crow city angels,"Action, Thriller"
+744,Michael Collins (1996),michael collins,"Drama, War"
+745,"Ruling Class, The (1972)",ruling class,Comedy
+746,Real Genius (1985),real genius,Comedy
+747,Benny & Joon (1993),benny joon,"Comedy, Romance"
+748,"Saint, The (1997)",saint,"Action, Romance, Thriller"
+749,"MatchMaker, The (1997)",matchmaker,"Comedy, Romance"
+750,Amistad (1997),amistad,Drama
+751,Tomorrow Never Dies (1997),tomorrow never dies,"Action, Romance, Thriller"
+752,"Replacement Killers, The (1998)",replacement killers,"Action, Thriller"
+753,Burnt By the Sun (1994),burnt sun,Drama
+754,Red Corner (1997),red corner,"Crime, Thriller"
+755,Jumanji (1995),jumanji,"Action, Adventure, Children, Fantasy, Sci-Fi"
+756,Father of the Bride Part II (1995),father bride part,Comedy
+757,Across the Sea of Time (1995),across sea time,Documentary
+758,Lawnmower Man 2: Beyond Cyberspace (1996),lawnmower man beyond cyberspace,"Sci-Fi, Thriller"
+759,Fair Game (1995),fair game,Action
+760,Screamers (1995),screamers,Sci-Fi
+761,Nick of Time (1995),nick time,"Action, Thriller"
+762,Beautiful Girls (1996),beautiful girls,Drama
+763,Happy Gilmore (1996),happy gilmore,Comedy
+764,If Lucy Fell (1996),lucy fell,"Comedy, Romance"
+765,Boomerang (1992),boomerang,"Comedy, Romance"
+766,Man of the Year (1995),man year,Documentary
+767,"Addiction, The (1995)",addiction,Horror
+768,Casper (1995),casper,"Adventure, Children"
+769,Congo (1995),congo,"Action, Adventure, Mystery, Sci-Fi"
+770,Devil in a Blue Dress (1995),devil blue dress,"Crime, Film-Noir, Mystery, Thriller"
+771,Johnny Mnemonic (1995),johnny mnemonic,"Action, Sci-Fi, Thriller"
+772,Kids (1995),kids,Drama
+773,Mute Witness (1994),mute witness,Thriller
+774,"Prophecy, The (1995)",prophecy,Horror
+775,Something to Talk About (1995),something talk,"Comedy, Drama, Romance"
+776,Three Wishes (1995),three wishes,Drama
+777,Castle Freak (1995),castle freak,Horror
+778,Don Juan DeMarco (1995),juan demarco,"Comedy, Drama, Romance"
+779,Drop Zone (1994),drop zone,Action
+780,Dumb & Dumber (1994),dumb dumber,Comedy
+781,French Kiss (1995),french kiss,"Comedy, Romance"
+782,Little Odessa (1994),little odessa,Drama
+783,Milk Money (1994),milk money,"Comedy, Romance"
+784,Beyond Bedlam (1993),beyond bedlam,"Drama, Horror"
+785,Only You (1994),,"Comedy, Romance"
+786,"Perez Family, The (1995)",perez family,"Comedy, Romance"
+787,Roommates (1995),roommates,"Comedy, Drama"
+788,Relative Fear (1994),relative fear,"Horror, Thriller"
+789,Swimming with Sharks (1995),swimming sharks,"Comedy, Drama"
+790,Tommy Boy (1995),tommy boy,Comedy
+791,"Baby-Sitters Club, The (1995)",babysitters club,Children
+792,Bullets Over Broadway (1994),bullets broadway,Comedy
+793,Crooklyn (1994),crooklyn,Comedy
+794,It Could Happen to You (1994),could happen,"Drama, Romance"
+795,Richie Rich (1994),richie rich,"Children, Comedy"
+796,Speechless (1994),speechless,"Comedy, Romance"
+797,Timecop (1994),timecop,"Action, Sci-Fi"
+798,Bad Company (1995),bad company,Action
+799,Boys Life (1995),boys life,Drama
+800,In the Mouth of Madness (1995),mouth madness,"Horror, Thriller"
+801,"Air Up There, The (1994)",air,Comedy
+802,Hard Target (1993),hard target,"Action, Adventure, Crime, Thriller"
+803,Heaven & Earth (1993),heaven earth,"Action, Drama, War"
+804,Jimmy Hollywood (1994),jimmy hollywood,Comedy
+805,Manhattan Murder Mystery (1993),manhattan murder mystery,"Comedy, Mystery"
+806,Menace II Society (1993),menace society,"Action, Crime, Drama"
+807,Poetic Justice (1993),poetic justice,Drama
+808,"Program, The (1993)",program,"Action, Drama"
+809,Rising Sun (1993),rising sun,"Action, Drama, Mystery"
+810,"Shadow, The (1994)",shadow,Action
+811,Thirty-Two Short Films About Glenn Gould (1993),thirtytwo short films glenn gould,Documentary
+812,Andre (1994),andre,"Adventure, Children"
+813,"Celluloid Closet, The (1995)",celluloid closet,Documentary
+814,"Great Day in Harlem, A (1994)",great day harlem,Documentary
+815,One Fine Day (1996),one fine day,"Drama, Romance"
+816,Candyman: Farewell to the Flesh (1995),candyman farewell flesh,Horror
+817,Frisk (1995),frisk,Drama
+818,Girl 6 (1996),girl,Comedy
+819,Eddie (1996),eddie,Comedy
+820,Space Jam (1996),space jam,"Adventure, Animation, Children, Comedy, Fantasy"
+821,Mrs. Winterbourne (1996),mrs winterbourne,"Comedy, Romance"
+822,Faces (1968),faces,Drama
+823,Mulholland Falls (1996),mulholland falls,"Crime, Film-Noir, Thriller"
+824,"Great White Hype, The (1996)",great white hype,Comedy
+825,"Arrival, The (1996)",arrival,"Action, Sci-Fi, Thriller"
+826,"Phantom, The (1996)",phantom,Adventure
+827,Daylight (1996),daylight,"Action, Adventure, Thriller"
+828,Alaska (1996),alaska,"Adventure, Children"
+829,Fled (1996),fled,"Action, Adventure"
+830,Power 98 (1995),power,"Action, Mystery, Thriller"
+831,Escape from L.A. (1996),escape,"Action, Adventure, Sci-Fi, Thriller"
+832,Bogus (1996),bogus,"Children, Drama, Fantasy"
+833,Bulletproof (1996),bulletproof,Action
+834,Halloween: The Curse of Michael Myers (1995),halloween curse michael myers,"Horror, Thriller"
+835,"Gay Divorcee, The (1934)",gay divorcee,"Comedy, Musical, Romance"
+836,Ninotchka (1939),ninotchka,"Comedy, Romance"
+837,Meet John Doe (1941),meet john doe,Drama
+838,In the Line of Duty 2 (1987),line duty,Action
+839,Loch Ness (1995),loch ness,"Horror, Thriller"
+840,Last Man Standing (1996),last man standing,"Action, Drama, Western"
+841,"Glimmer Man, The (1996)",glimmer man,"Action, Thriller"
+842,Pollyanna (1960),pollyanna,"Children, Comedy, Drama"
+843,"Shaggy Dog, The (1959)",shaggy dog,"Children, Comedy"
+844,Freeway (1996),freeway,Crime
+845,That Thing You Do! (1996),thing,Comedy
+846,To Gillian on Her 37th Birthday (1996),gillian 37th birthday,"Drama, Romance"
+847,Looking for Richard (1996),looking richard,"Documentary, Drama"
+848,"Murder, My Sweet (1944)",murder sweet,"Film-Noir, Thriller"
+849,Days of Thunder (1990),days thunder,"Action, Romance"
+850,"Perfect Candidate, A (1996)",perfect candidate,Documentary
+851,Two or Three Things I Know About Her (1966),two three things know,Drama
+852,"Bloody Child, The (1996)",bloody child,"Drama, Thriller"
+853,Braindead (1992),braindead,"Comedy, Horror"
+854,Bad Taste (1987),bad taste,"Comedy, Horror"
+855,Diva (1981),diva,"Action, Drama, Mystery, Romance, Thriller"
+856,Night on Earth (1991),night earth,"Comedy, Drama"
+857,Paris Was a Woman (1995),paris woman,Documentary
+858,Amityville: Dollhouse (1996),amityville dollhouse,Horror
+859,April Fool's Day (1986),april fools day,"Comedy, Horror"
+860,"Believers, The (1987)",believers,"Horror, Thriller"
+861,Nosferatu a Venezia (1986),nosferatu venezia,Horror
+862,Jingle All the Way (1996),jingle way,"Adventure, Children, Comedy"
+863,"Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)",garden finzicontini giardino dei finzicontini,Drama
+864,My Fellow Americans (1996),fellow americans,Comedy
+865,"Ice Storm, The (1997)",ice storm,Drama
+866,Michael (1996),michael,"Comedy, Romance"
+867,"Whole Wide World, The (1996)",whole wide world,Drama
+868,Hearts and Minds (1996),hearts minds,Drama
+869,Fools Rush In (1997),fools rush,"Comedy, Romance"
+870,Touch (1997),touch,Romance
+871,Vegas Vacation (1997),vegas vacation,Comedy
+872,Love Jones (1997),love jones,Romance
+873,Picture Perfect (1997),picture perfect,"Comedy, Romance"
+874,Career Girls (1997),career girls,Drama
+875,She's So Lovely (1997),shes lovely,"Drama, Romance"
+876,Money Talks (1997),money talks,"Action, Comedy"
+877,Excess Baggage (1997),excess baggage,"Adventure, Romance"
+878,That Darn Cat! (1997),darn cat,"Children, Comedy, Mystery"
+879,"Peacemaker, The (1997)",peacemaker,"Action, Thriller, War"
+880,Soul Food (1997),soul food,Drama
+881,Money Talks (1997),money talks,"Action, Comedy"
+882,Washington Square (1997),washington square,Drama
+883,Telling Lies in America (1997),telling lies america,Drama
+884,Year of the Horse (1997),year horse,Documentary
+885,Phantoms (1998),phantoms,Horror
+886,"Life Less Ordinary, A (1997)",life less ordinary,"Romance, Thriller"
+887,Eve's Bayou (1997),eves bayou,Drama
+888,One Night Stand (1997),one night stand,Drama
+889,"Tango Lesson, The (1997)",tango lesson,Romance
+890,Mortal Kombat: Annihilation (1997),mortal kombat annihilation,"Action, Adventure"
+891,Bent (1997),bent,"Drama, War"
+892,Flubber (1997),flubber,"Children, Comedy, Fantasy"
+893,For Richer or Poorer (1997),richer poorer,Comedy
+894,Home Alone 3 (1997),home alone,"Children, Comedy"
+895,Scream 2 (1997),scream,"Horror, Thriller"
+896,"Sweet Hereafter, The (1997)",sweet hereafter,Drama
+897,Time Tracers (1995),time tracers,"Action, Adventure, Sci-Fi"
+898,"Postman, The (1997)",postman,Drama
+899,"Winter Guest, The (1997)",winter guest,Drama
+900,Kundun (1997),kundun,Drama
+901,Mr. Magoo (1997),magoo,Comedy
+902,"Big Lebowski, The (1998)",big lebowski,"Comedy, Crime, Mystery, Thriller"
+903,Afterglow (1997),afterglow,"Drama, Romance"
+904,Ma vie en rose (My Life in Pink) (1997),vie rose life pink,"Comedy, Drama"
+905,Great Expectations (1998),great expectations,"Drama, Romance"
+906,Oscar & Lucinda (1997),oscar lucinda,"Drama, Romance"
+907,Vermin (1998),vermin,Comedy
+908,Half Baked (1998),half baked,Comedy
+909,Dangerous Beauty (1998),dangerous beauty,Drama
+910,Nil By Mouth (1997),nil mouth,Drama
+911,Twilight (1998),twilight,"Crime, Drama"
+912,U.S. Marshalls (1998),marshalls,"Action, Thriller"
+913,Love and Death on Long Island (1997),love death long island,Comedy
+914,Wild Things (1998),wild things,"Crime, Drama, Mystery, Thriller"
+915,Primary Colors (1998),primary colors,Drama
+916,Lost in Space (1998),lost space,"Action, Sci-Fi, Thriller"
+917,Mercury Rising (1998),mercury rising,"Action, Drama, Thriller"
+918,City of Angels (1998),city angels,Romance
+919,"City of Lost Children, The (1995)",city lost children,"Adventure, Sci-Fi"
+920,Two Bits (1995),two bits,Drama
+921,Farewell My Concubine (1993),farewell concubine,"Drama, Romance"
+922,Dead Man (1995),dead man,Western
+923,Raise the Red Lantern (1991),raise red lantern,Drama
+924,White Squall (1996),white squall,"Adventure, Drama"
+925,Unforgettable (1996),unforgettable,"Sci-Fi, Thriller"
+926,Down Periscope (1996),periscope,Comedy
+927,"Flower of My Secret, The (Flor de mi secreto, La) (1995)",flower secret flor secreto,Drama
+928,"Craft, The (1996)",craft,"Drama, Horror"
+929,Harriet the Spy (1996),harriet spy,"Children, Comedy"
+930,Chain Reaction (1996),chain reaction,"Action, Adventure, Thriller"
+931,"Island of Dr. Moreau, The (1996)",island moreau,"Sci-Fi, Thriller"
+932,First Kid (1996),first kid,"Children, Comedy"
+933,"Funeral, The (1996)",funeral,Drama
+934,"Preacher's Wife, The (1996)",preachers wife,Drama
+935,Paradise Road (1997),paradise road,"Drama, War"
+936,Brassed Off (1996),brassed,"Comedy, Drama, Romance"
+937,"Thousand Acres, A (1997)",thousand acres,Drama
+938,"Smile Like Yours, A (1997)",smile like,"Comedy, Romance"
+939,Murder in the First (1995),murder first,"Drama, Thriller"
+940,Airheads (1994),airheads,Comedy
+941,With Honors (1994),honors,"Comedy, Drama"
+942,What's Love Got to Do with It (1993),whats love got,Drama
+943,Killing Zoe (1994),killing zoe,Thriller
+944,Renaissance Man (1994),renaissance man,"Comedy, Drama, War"
+945,Charade (1963),charade,"Comedy, Mystery, Romance, Thriller"
+946,"Fox and the Hound, The (1981)",fox hound,"Animation, Children"
+947,"Big Blue, The (Grand bleu, Le) (1988)",big blue grand bleu,"Adventure, Romance"
+948,Booty Call (1997),booty call,"Comedy, Romance"
+949,How to Make an American Quilt (1995),make american quilt,"Drama, Romance"
+950,Georgia (1995),georgia,Drama
+951,"Indian in the Cupboard, The (1995)",indian cupboard,"Adventure, Children, Fantasy"
+952,Blue in the Face (1995),blue face,Comedy
+953,Unstrung Heroes (1995),unstrung heroes,"Comedy, Drama"
+954,Unzipped (1995),unzipped,Documentary
+955,Before Sunrise (1995),sunrise,"Drama, Romance"
+956,Nobody's Fool (1994),nobodys fool,Drama
+957,Pushing Hands (1992),pushing hands,Comedy
+958,To Live (Huozhe) (1994),live huozhe,Drama
+959,Dazed and Confused (1993),dazed confused,Comedy
+960,Naked (1993),naked,Drama
+961,Orlando (1993),orlando,Drama
+962,Ruby in Paradise (1993),ruby paradise,Drama
+963,Some Folks Call It a Sling Blade (1993),folks call sling blade,"Drama, Thriller"
+964,"Month by the Lake, A (1995)",month lake,"Comedy, Drama"
+965,Funny Face (1957),funny face,"Comedy, Musical"
+966,"Affair to Remember, An (1957)",affair remember,Romance
+967,Little Lord Fauntleroy (1936),little lord fauntleroy,Drama
+968,"Inspector General, The (1949)",inspector general,Musical
+969,Winnie the Pooh and the Blustery Day (1968),winnie pooh blustery day,"Animation, Children"
+970,Hear My Song (1991),hear song,Comedy
+971,Mediterraneo (1991),mediterraneo,"Comedy, War"
+972,Passion Fish (1992),passion fish,Drama
+973,Grateful Dead (1995),grateful dead,Documentary
+974,Eye for an Eye (1996),eye eye,"Drama, Thriller"
+975,Fear (1996),fear,Thriller
+976,Solo (1996),solo,"Action, Sci-Fi, Thriller"
+977,"Substitute, The (1996)",substitute,Action
+978,Heaven's Prisoners (1996),heavens prisoners,"Mystery, Thriller"
+979,"Trigger Effect, The (1996)",trigger effect,"Drama, Thriller"
+980,Mother Night (1996),mother night,Drama
+981,Dangerous Ground (1997),dangerous ground,Drama
+982,Maximum Risk (1996),maximum risk,"Action, Adventure, Thriller"
+983,"Rich Man's Wife, The (1996)",rich mans wife,Thriller
+984,Shadow Conspiracy (1997),shadow conspiracy,Thriller
+985,Blood & Wine (1997),blood wine,Drama
+986,Turbulence (1997),turbulence,Thriller
+987,Underworld (1997),underworld,Thriller
+988,"Beautician and the Beast, The (1997)",beautician beast,"Comedy, Romance"
+989,Cats Don't Dance (1997),cats dont dance,"Animation, Children, Musical"
+990,Anna Karenina (1997),anna karenina,"Drama, Romance"
+991,Keys to Tulsa (1997),keys tulsa,Crime
+992,Head Above Water (1996),head water,"Comedy, Thriller"
+993,Hercules (1997),hercules,"Adventure, Animation, Children, Comedy, Musical"
+994,"Last Time I Committed Suicide, The (1997)",last time committed suicide,Drama
+995,"Kiss Me, Guido (1997)",kiss guido,Comedy
+996,"Big Green, The (1995)",big green,"Children, Comedy"
+997,Stuart Saves His Family (1995),stuart saves family,Comedy
+998,Cabin Boy (1994),cabin boy,Comedy
+999,Clean Slate (1994),clean slate,Comedy
+1000,Lightning Jack (1994),lightning jack,"Comedy, Western"
+1001,"Stupids, The (1996)",stupids,Comedy
+1002,"Pest, The (1997)",pest,Comedy
+1003,That Darn Cat! (1997),darn cat,"Children, Comedy, Mystery"
+1004,Geronimo: An American Legend (1993),geronimo american legend,"Drama, Western"
+1005,"Double vie de Véronique, La (Double Life of Veronique, The) (1991)",double vie véronique double life veronique,Drama
+1006,Until the End of the World (Bis ans Ende der Welt) (1991),end world bis ans ende der welt,"Drama, Sci-Fi"
+1007,Waiting for Guffman (1996),waiting guffman,Comedy
+1008,I Shot Andy Warhol (1996),shot andy warhol,Drama
+1009,Stealing Beauty (1996),stealing beauty,Drama
+1010,Basquiat (1996),basquiat,Drama
+1011,2 Days in the Valley (1996),days valley,Crime
+1012,Private Parts (1997),private parts,"Comedy, Drama"
+1013,Anaconda (1997),anaconda,"Action, Adventure, Thriller"
+1014,Romy and Michele's High School Reunion (1997),romy micheles high school reunion,Comedy
+1015,Shiloh (1997),shiloh,"Children, Drama"
+1016,Con Air (1997),con air,"Action, Adventure, Thriller"
+1017,Trees Lounge (1996),trees lounge,Drama
+1018,Tie Me Up! Tie Me Down! (1990),tie tie,Drama
+1019,"Die xue shuang xiong (Killer, The) (1989)",die xue shuang xiong killer,"Action, Thriller"
+1020,Gaslight (1944),gaslight,"Mystery, Thriller"
+1021,8 1/2 (1963),,Drama
+1022,"Fast, Cheap & Out of Control (1997)",fast cheap control,Documentary
+1023,Fathers' Day (1997),fathers day,Comedy
+1024,Mrs. Dalloway (1997),mrs dalloway,Romance
+1025,Fire Down Below (1997),fire,"Action, Drama, Thriller"
+1026,"Lay of the Land, The (1997)",lay land,"Comedy, Drama"
+1027,"Shooter, The (1995)",shooter,Action
+1028,Grumpier Old Men (1995),grumpier old men,"Comedy, Romance"
+1029,Jury Duty (1995),jury duty,Comedy
+1030,"Beverly Hillbillies, The (1993)",beverly hillbillies,Comedy
+1031,Lassie (1994),lassie,"Adventure, Children"
+1032,Little Big League (1994),little big league,"Children, Comedy"
+1033,Homeward Bound II: Lost in San Francisco (1996),homeward bound lost san francisco,"Adventure, Children"
+1034,"Quest, The (1996)",quest,"Action, Adventure"
+1035,Cool Runnings (1993),cool runnings,Comedy
+1036,Drop Dead Fred (1991),drop dead fred,"Comedy, Fantasy"
+1037,Grease 2 (1982),grease,"Comedy, Musical, Romance"
+1038,Switchback (1997),switchback,Thriller
+1039,Hamlet (1996),hamlet,Drama
+1040,Two if by Sea (1996),two sea,"Comedy, Romance"
+1041,Forget Paris (1995),forget paris,"Comedy, Romance"
+1042,Just Cause (1995),cause,"Mystery, Thriller"
+1043,Rent-a-Kid (1995),rentakid,Comedy
+1044,"Paper, The (1994)",paper,"Comedy, Drama"
+1045,Fearless (1993),fearless,Drama
+1046,Malice (1993),malice,Thriller
+1047,Multiplicity (1996),multiplicity,Comedy
+1048,She's the One (1996),shes one,"Comedy, Romance"
+1049,House Arrest (1996),house arrest,Comedy
+1050,"Ghost and Mrs. Muir, The (1947)",ghost mrs muir,"Drama, Romance"
+1051,"Associate, The (1996)",associate,Comedy
+1052,Dracula: Dead and Loving It (1995),dracula dead loving,"Comedy, Horror"
+1053,Now and Then (1995),,Drama
+1054,Mr. Wrong (1996),wrong,Comedy
+1055,"Simple Twist of Fate, A (1994)",simple twist fate,Drama
+1056,Cronos (1992),cronos,Horror
+1057,"Pallbearer, The (1996)",pallbearer,Comedy
+1058,"War, The (1994)",war,"Adventure, Drama"
+1059,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),dont menace south central drinking juice hood,Comedy
+1060,"Adventures of Pinocchio, The (1996)",adventures pinocchio,"Adventure, Children"
+1061,"Evening Star, The (1996)",evening star,"Comedy, Drama"
+1062,Four Days in September (1997),four days september,Drama
+1063,"Little Princess, A (1995)",little princess,"Children, Drama"
+1064,Crossfire (1947),crossfire,"Crime, Film-Noir"
+1065,Koyaanisqatsi (1983),koyaanisqatsi,"Documentary, War"
+1066,Balto (1995),balto,"Animation, Children"
+1067,Bottle Rocket (1996),bottle rocket,Comedy
+1068,"Star Maker, The (Uomo delle stelle, L') (1995)",star maker uomo delle stelle,Drama
+1069,Amateur (1994),amateur,"Crime, Drama, Thriller"
+1070,Living in Oblivion (1995),living oblivion,Comedy
+1071,Party Girl (1995),party girl,Comedy
+1072,"Pyromaniac's Love Story, A (1995)",pyromaniacs love story,"Comedy, Romance"
+1073,Shallow Grave (1994),shallow grave,Thriller
+1074,Reality Bites (1994),reality bites,"Comedy, Drama"
+1075,"Man of No Importance, A (1994)",man importance,Drama
+1076,"Pagemaster, The (1994)",pagemaster,"Action, Adventure, Animation, Children, Fantasy"
+1077,Love and a .45 (1994),love,Thriller
+1078,Oliver & Company (1988),oliver company,"Animation, Children"
+1079,Joe's Apartment (1996),joes apartment,"Comedy, Musical"
+1080,Celestial Clockwork (1994),celestial clockwork,Comedy
+1081,Curdled (1996),curdled,Crime
+1082,Female Perversions (1996),female perversions,Drama
+1083,Albino Alligator (1996),albino alligator,"Crime, Thriller"
+1084,Anne Frank Remembered (1995),anne frank remembered,Documentary
+1085,Carried Away (1996),carried away,"Drama, Romance"
+1086,It's My Party (1995),party,Drama
+1087,Bloodsport 2 (1995),bloodsport,Action
+1088,Double Team (1997),double team,Action
+1089,Speed 2: Cruise Control (1997),speed cruise control,"Action, Romance, Thriller"
+1090,Sliver (1993),sliver,Thriller
+1091,Pete's Dragon (1977),petes dragon,"Adventure, Animation, Children, Musical"
+1092,Dear God (1996),dear god,Comedy
+1093,Live Nude Girls (1995),live nude girls,Comedy
+1094,"Thin Line Between Love and Hate, A (1996)",thin line love hate,Comedy
+1095,High School High (1996),high school high,Comedy
+1096,Commandments (1997),commandments,Romance
+1097,"Hate (Haine, La) (1995)",hate haine,Drama
+1098,Flirting With Disaster (1996),flirting disaster,Comedy
+1099,"Red Firecracker, Green Firecracker (1994)",red firecracker green firecracker,Drama
+1100,What Happened Was... (1994),happened,"Comedy, Drama, Romance"
+1101,Six Degrees of Separation (1993),six degrees separation,"Drama, Mystery"
+1102,Two Much (1996),two much,"Comedy, Romance"
+1103,Trust (1990),trust,"Comedy, Drama"
+1104,C'est arrivé près de chez vous (1992),cest arrivé près chez vous,"Comedy, Crime, Drama"
+1105,Firestorm (1998),firestorm,"Action, Adventure, Thriller"
+1106,"Newton Boys, The (1998)",newton boys,"Crime, Drama"
+1107,Beyond Rangoon (1995),beyond rangoon,Drama
+1108,Feast of July (1995),feast july,Drama
+1109,Death and the Maiden (1994),death maiden,"Drama, Thriller"
+1110,Tank Girl (1995),tank girl,"Action, Comedy, Musical, Sci-Fi"
+1111,Double Happiness (1994),double happiness,Drama
+1112,Cobb (1994),cobb,Drama
+1113,Mrs. Parker and the Vicious Circle (1994),mrs parker vicious circle,Drama
+1114,Faithful (1996),faithful,Comedy
+1115,Twelfth Night (1996),twelfth night,"Comedy, Drama, Romance"
+1116,"Mark of Zorro, The (1940)",mark zorro,Adventure
+1117,Surviving Picasso (1996),surviving picasso,Drama
+1118,Up in Smoke (1978),smoke,Comedy
+1119,Some Kind of Wonderful (1987),kind wonderful,"Drama, Romance"
+1120,I'm Not Rappaport (1996),rappaport,Comedy
+1121,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",umbrellas cherbourg parapluies cherbourg les,"Drama, Musical"
+1122,They Made Me a Criminal (1939),made criminal,"Crime, Drama"
+1123,"Last Time I Saw Paris, The (1954)",last time saw paris,Drama
+1124,"Farewell to Arms, A (1932)",farewell arms,"Romance, War"
+1125,"Innocents, The (1961)",innocents,Thriller
+1126,"Old Man and the Sea, The (1958)",old man sea,"Adventure, Drama"
+1127,"Truman Show, The (1998)",truman show,Drama
+1128,Heidi Fleiss: Hollywood Madam (1995) ,heidi fleiss hollywood madam,Documentary
+1129,Chungking Express (1994),chungking express,"Drama, Mystery, Romance"
+1130,Jupiter's Wife (1994),jupiters wife,Documentary
+1131,Safe (1995),safe,Thriller
+1132,Feeling Minnesota (1996),feeling minnesota,"Drama, Romance"
+1133,Escape to Witch Mountain (1975),escape witch mountain,"Adventure, Children, Fantasy"
+1134,Get on the Bus (1996),get bus,Drama
+1135,"Doors, The (1991)",doors,"Drama, Musical"
+1136,Ghosts of Mississippi (1996),ghosts mississippi,Drama
+1137,Beautiful Thing (1996),beautiful thing,"Drama, Romance"
+1138,Best Men (1997),best men,"Action, Comedy, Crime, Drama"
+1139,Hackers (1995),hackers,"Action, Crime, Thriller"
+1140,"Road to Wellville, The (1994)",road wellville,Comedy
+1141,"War Room, The (1993)",war room,Documentary
+1142,When We Were Kings (1996),kings,Documentary
+1143,Hard Eight (1996),hard eight,"Crime, Thriller"
+1144,"Quiet Room, The (1996)",quiet room,Drama
+1145,Blue Chips (1994),blue chips,Drama
+1146,Calendar Girl (1993),calendar girl,Drama
+1147,My Family (1995),family,Drama
+1148,Tom & Viv (1994),tom viv,Drama
+1149,Walkabout (1971),walkabout,Drama
+1150,Last Dance (1996),last dance,Drama
+1151,Original Gangstas (1996),original gangstas,Crime
+1152,In Love and War (1996),love war,"Romance, War"
+1153,Backbeat (1993),backbeat,"Drama, Musical"
+1154,Alphaville (1965),alphaville,Sci-Fi
+1155,"Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)",rendezvous paris rendezvous paris les,"Comedy, Romance"
+1156,Cyclo (1995),cyclo,"Crime, Drama"
+1157,"Relic, The (1997)",relic,Horror
+1158,"Fille seule, La (A Single Girl) (1995)",fille seule single girl,Drama
+1159,Stalker (1979),stalker,"Mystery, Sci-Fi"
+1160,Love! Valour! Compassion! (1997),love valour compassion,"Drama, Romance"
+1161,Palookaville (1996),palookaville,"Action, Drama"
+1162,Phat Beach (1996),phat beach,Comedy
+1163,"Portrait of a Lady, The (1996)",portrait lady,Drama
+1164,Zeus and Roxanne (1997),zeus roxanne,Children
+1165,Big Bully (1996),big bully,"Comedy, Drama"
+1166,Love & Human Remains (1993),love human remains,Comedy
+1167,"Sum of Us, The (1994)",sum,Comedy
+1168,Little Buddha (1993),little buddha,Drama
+1169,Fresh (1994),fresh,Drama
+1170,Spanking the Monkey (1994),spanking monkey,"Comedy, Drama"
+1171,Wild Reeds (1994),wild reeds,Drama
+1172,"Women, The (1939)",women,Comedy
+1173,Bliss (1997),bliss,"Drama, Romance"
+1174,Caught (1996),caught,"Drama, Thriller"
+1175,Hugo Pool (1997),hugo pool,Romance
+1176,Welcome To Sarajevo (1997),welcome sarajevo,"Drama, War"
+1177,Dunston Checks In (1996),dunston checks,Comedy
+1178,Major Payne (1994),major payne,Comedy
+1179,Man of the House (1995),man house,Comedy
+1180,I Love Trouble (1994),love trouble,"Action, Comedy"
+1181,"Low Down Dirty Shame, A (1994)",low dirty shame,"Action, Comedy"
+1182,Cops and Robbersons (1994),cops robbersons,Comedy
+1183,"Cowboy Way, The (1994)",cowboy way,"Action, Comedy"
+1184,"Endless Summer 2, The (1994)",endless summer,Documentary
+1185,In the Army Now (1994),army,"Comedy, War"
+1186,"Inkwell, The (1994)",inkwell,"Comedy, Drama"
+1187,Switchblade Sisters (1975),switchblade sisters,Crime
+1188,Young Guns II (1990),young guns,"Action, Comedy, Western"
+1189,Prefontaine (1997),prefontaine,Drama
+1190,That Old Feeling (1997),old feeling,"Comedy, Romance"
+1191,"Letter From Death Row, A (1998)",letter death row,"Crime, Drama"
+1192,"Boys of St. Vincent, The (1993)",boys vincent,Drama
+1193,Before the Rain (Pred dozhdot) (1994),rain pred dozhdot,Drama
+1194,Once Were Warriors (1994),warriors,"Crime, Drama"
+1195,Strawberry and Chocolate (Fresa y chocolate) (1993),strawberry chocolate fresa chocolate,Drama
+1196,"Savage Nights (Nuits fauves, Les) (1992)",savage nights nuits fauves les,Drama
+1197,"Family Thing, A (1996)",family thing,"Comedy, Drama"
+1198,Purple Noon (1960),purple noon,"Crime, Thriller"
+1199,Cemetery Man (Dellamorte Dellamore) (1994),cemetery man dellamorte dellamore,"Comedy, Horror"
+1200,Kim (1950),kim,"Children, Drama"
+1201,Marlene Dietrich: Shadow and Light (1996) ,marlene dietrich shadow light,Documentary
+1202,"Maybe, Maybe Not (Bewegte Mann, Der) (1994)",maybe maybe bewegte mann der,Comedy
+1203,Top Hat (1935),top hat,"Comedy, Musical, Romance"
+1204,To Be or Not to Be (1942),,"Comedy, Drama, War"
+1205,"Secret Agent, The (1996)",secret agent,Drama
+1206,Amos & Andrew (1993),amos andrew,Comedy
+1207,Jade (1995),jade,Thriller
+1208,Kiss of Death (1995),kiss death,"Crime, Drama, Thriller"
+1209,Mixed Nuts (1994),mixed nuts,Comedy
+1210,Virtuosity (1995),virtuosity,"Sci-Fi, Thriller"
+1211,Blue Sky (1994),blue sky,"Drama, Romance"
+1212,Flesh and Bone (1993),flesh bone,"Drama, Mystery, Romance"
+1213,Guilty as Sin (1993),guilty sin,"Crime, Drama, Thriller"
+1214,In the Realm of the Senses (Ai no corrida) (1976),realm senses corrida,Drama
+1215,Barb Wire (1996),barb wire,"Action, Sci-Fi"
+1216,Kissed (1996),kissed,Romance
+1217,Assassins (1995),assassins,Thriller
+1218,Friday (1995),friday,Comedy
+1219,"Goofy Movie, A (1995)",goofy movie,"Animation, Children, Comedy, Romance"
+1220,Higher Learning (1995),higher learning,Drama
+1221,When a Man Loves a Woman (1994),man loves woman,Drama
+1222,Judgment Night (1993),judgment night,Action
+1223,King of the Hill (1993),king hill,Drama
+1224,"Scout, The (1994)",scout,Drama
+1225,Angus (1995),angus,Comedy
+1226,Night Falls on Manhattan (1997),night falls manhattan,"Crime, Drama"
+1227,"Awfully Big Adventure, An (1995)",awfully big adventure,Drama
+1228,Under Siege 2: Dark Territory (1995),siege dark territory,Action
+1229,Poison Ivy II (1995),poison ivy,"Drama, Thriller"
+1230,Ready to Wear (Pret-A-Porter) (1994),ready wear pretaporter,Comedy
+1231,Marked for Death (1990),marked death,"Action, Drama"
+1232,Madonna: Truth or Dare (1991),madonna truth dare,Documentary
+1233,Nénette et Boni (1996),nénette boni,Drama
+1234,Chairman of the Board (1998),chairman board,Comedy
+1235,"Big Bang Theory, The (1994)",big bang theory,Crime
+1236,"Other Voices, Other Rooms (1997)",voices rooms,Drama
+1237,Twisted (1996),twisted,"Comedy, Drama"
+1238,Full Speed (1996),full speed,Drama
+1239,Cutthroat Island (1995),cutthroat island,"Action, Adventure, Romance"
+1240,Ghost in the Shell (Kokaku kidotai) (1995),ghost shell kokaku kidotai,"Animation, Sci-Fi"
+1241,"Van, The (1996)",van,"Comedy, Drama"
+1242,"Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)",old lady walked sea vieille qui marchait dans mer,Comedy
+1243,Night Flier (1997),night flier,Horror
+1244,Metro (1997),metro,Action
+1245,Gridlock'd (1997),gridlockd,Crime
+1246,Bushwhacked (1995),bushwhacked,Comedy
+1247,Bad Girls (1994),bad girls,Western
+1248,Blink (1994),blink,Thriller
+1249,For Love or Money (1993),love money,Comedy
+1250,Best of the Best 3: No Turning Back (1995),best best turning back,Action
+1251,A Chef in Love (1996),chef love,Comedy
+1252,"Contempt (Mépris, Le) (1963)",contempt mépris,Drama
+1253,"Tie That Binds, The (1995)",tie binds,Thriller
+1254,Gone Fishin' (1997),gone fishin,Comedy
+1255,Broken English (1996),broken english,Drama
+1256,"Designated Mourner, The (1997)",designated mourner,Drama
+1257,"Designated Mourner, The (1997)",designated mourner,Drama
+1258,Trial and Error (1997),trial error,"Comedy, Romance"
+1259,Pie in the Sky (1995),pie sky,"Comedy, Romance"
+1260,Total Eclipse (1995),total eclipse,Drama
+1261,"Run of the Country, The (1995)",run country,Drama
+1262,Walking and Talking (1996),walking talking,Romance
+1263,Foxfire (1996),foxfire,Drama
+1264,Nothing to Lose (1994),nothing lose,Drama
+1265,Star Maps (1997),star maps,Drama
+1266,Bread and Chocolate (Pane e cioccolata) (1973),bread chocolate pane cioccolata,Drama
+1267,Clockers (1995),clockers,Drama
+1268,Bitter Moon (1992),bitter moon,Drama
+1269,Love in the Afternoon (1957),love afternoon,"Comedy, Romance"
+1270,Life with Mikey (1993),life mikey,Comedy
+1271,North (1994),north,Comedy
+1272,Talking About Sex (1994),talking sex,"Comedy, Drama"
+1273,Color of Night (1994),color night,"Drama, Thriller"
+1274,Robocop 3 (1993),robocop,"Sci-Fi, Thriller"
+1275,Killer (Bulletproof Heart) (1994),killer bulletproof heart,Thriller
+1276,Sunset Park (1996),sunset park,Drama
+1277,Set It Off (1996),set,"Action, Crime"
+1278,Selena (1997),selena,"Drama, Musical"
+1279,Wild America (1997),wild america,"Adventure, Children"
+1280,Gang Related (1997),gang related,Crime
+1281,Manny & Lo (1996),manny,Drama
+1282,"Grass Harp, The (1995)",grass harp,Drama
+1283,Out to Sea (1997),sea,Comedy
+1284,Before and After (1996),,"Drama, Mystery"
+1285,Princess Caraboo (1994),princess caraboo,Drama
+1286,Shall We Dance? (1937),shall dance,"Comedy, Musical, Romance"
+1287,Ed (1996),,Comedy
+1288,Denise Calls Up (1995),denise calls,Comedy
+1289,Jack and Sarah (1995),jack sarah,Romance
+1290,Country Life (1994),country life,"Drama, Romance"
+1291,Celtic Pride (1996),celtic pride,Comedy
+1292,"Simple Wish, A (1997)",simple wish,"Children, Fantasy"
+1293,Star Kid (1997),star kid,"Adventure, Children, Fantasy, Sci-Fi"
+1294,Ayn Rand: A Sense of Life (1997),ayn rand sense life,Documentary
+1295,Kicked in the Head (1997),kicked head,"Comedy, Drama"
+1296,Indian Summer (1996),indian summer,"Comedy, Drama"
+1297,Love Affair (1994),love affair,"Drama, Romance"
+1298,"Band Wagon, The (1953)",band wagon,"Comedy, Musical"
+1299,Penny Serenade (1941),penny serenade,"Drama, Romance"
+1300,'Til There Was You (1997),til,"Drama, Romance"
+1301,Stripes (1981),stripes,Comedy
+1302,Late Bloomers (1996),late bloomers,Comedy
+1303,"Getaway, The (1994)",getaway,Action
+1304,New York Cop (1996),new york cop,"Action, Crime"
+1305,National Lampoon's Senior Trip (1995),national lampoons senior trip,Comedy
+1306,Delta of Venus (1994),delta venus,Drama
+1307,Carmen Miranda: Bananas Is My Business (1994),carmen miranda bananas business,Documentary
+1308,Babyfever (1994),babyfever,"Comedy, Drama"
+1309,"Very Natural Thing, A (1974)",natural thing,Drama
+1310,"Walk in the Sun, A (1945)",walk sun,Drama
+1311,Waiting to Exhale (1995),waiting exhale,"Comedy, Drama"
+1312,"Pompatus of Love, The (1996)",pompatus love,"Comedy, Drama"
+1313,Palmetto (1998),palmetto,"Film-Noir, Mystery, Thriller"
+1314,Surviving the Game (1994),surviving game,"Action, Adventure, Thriller"
+1315,Inventing the Abbotts (1997),inventing abbotts,"Drama, Romance"
+1316,"Horse Whisperer, The (1998)",horse whisperer,Drama
+1317,"Journey of August King, The (1995)",journey august king,Drama
+1318,Catwalk (1995),catwalk,Documentary
+1319,"Neon Bible, The (1995)",neon bible,Drama
+1320,Homage (1995),homage,Drama
+1321,Open Season (1996),open season,Comedy
+1322,Metisse (Café au Lait) (1993),metisse café lait,Comedy
+1323,"Wooden Man's Bride, The (Wu Kui) (1994)",wooden mans bride kui,Drama
+1324,Loaded (1994),loaded,"Drama, Thriller"
+1325,August (1996),august,Drama
+1326,Boys (1996),boys,Drama
+1327,Captives (1994),captives,Drama
+1328,Of Love and Shadows (1994),love shadows,Drama
+1329,"Low Life, The (1994)",low life,Drama
+1330,An Unforgettable Summer (1994),unforgettable summer,Drama
+1331,"Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)",last klezmer leopold kozlowski life music,Documentary
+1332,My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993),life times antonin artaud compagnie dantonin artaud,Drama
+1333,Midnight Dancers (Sibak) (1994),midnight dancers sibak,"Comedy, Drama"
+1334,Somebody to Love (1994),somebody love,Drama
+1335,American Buffalo (1996),american buffalo,Drama
+1336,Kazaam (1996),kazaam,"Children, Comedy, Fantasy"
+1337,Larger Than Life (1996),larger life,Comedy
+1338,Two Deaths (1995),two deaths,Drama
+1339,Stefano Quantestorie (1993),stefano quantestorie,"Comedy, Drama"
+1340,"Crude Oasis, The (1995)",crude oasis,Romance
+1341,Hedd Wyn (1992),hedd wyn,Drama
+1342,"Convent, The (Convento, O) (1995)",convent convento,Drama
+1343,Lotto Land (1995),lotto land,Drama
+1344,"Story of Xinghua, The (1993)",story xinghua,Drama
+1345,"Day the Sun Turned Cold, The (Tianguo niezi) (1994)",day sun turned cold tianguo niezi,Drama
+1346,Dingo (1992),dingo,Drama
+1347,"Ballad of Narayama, The (Narayama Bushiko) (1958)",ballad narayama narayama bushiko,Drama
+1348,Every Other Weekend (1990),every weekend,Drama
+1349,Mille bolle blu (1993),mille bolle blu,Comedy
+1350,Crows and Sparrows (1949),crows sparrows,Drama
+1351,Lover's Knot (1996),lovers knot,Comedy
+1352,Shadow of Angels (Schatten der Engel) (1976),shadow angels schatten der engel,Drama
+1353,1-900 (1994),1900,Romance
+1354,Venice/Venice (1992),venicevenice,Drama
+1355,Infinity (1996),infinity,Drama
+1356,Ed's Next Move (1996),eds next move,Comedy
+1357,For the Moment (1994),moment,"Romance, War"
+1358,The Deadly Cure (1996),deadly cure,Action
+1359,Boys in Venice (1996),boys venice,Drama
+1360,"Sexual Life of the Belgians, The (1994)",sexual life belgians,Comedy
+1361,"Search for One-eye Jimmy, The (1996)",search oneeye jimmy,Comedy
+1362,American Strays (1996),american strays,Action
+1363,"Leopard Son, The (1996)",leopard son,Documentary
+1364,Bird of Prey (1996),bird prey,Action
+1365,Johnny 100 Pesos (1993),johnny 100 pesos,"Action, Drama"
+1366,JLG/JLG - autoportrait de décembre (1994),jlgjlg autoportrait décembre,"Documentary, Drama"
+1367,Faust (1994),faust,Animation
+1368,Mina Tannenbaum (1994),mina tannenbaum,Drama
+1369,"Forbidden Christ, The (Cristo proibito, Il) (1950)",forbidden christ cristo proibito,Drama
+1370,I Can't Sleep (J'ai pas sommeil) (1994),cant sleep jai pas sommeil,"Drama, Thriller"
+1371,"Machine, The (1994)",machine,"Comedy, Horror"
+1372,"Stranger, The (1994)",stranger,Action
+1373,Good Morning (1971),good morning,unknown
+1374,Falling in Love Again (1980),falling love,Comedy
+1375,"Cement Garden, The (1993)",cement garden,Drama
+1376,Meet Wally Sparks (1997),meet wally sparks,Comedy
+1377,Hotel de Love (1996),hotel love,"Comedy, Romance"
+1378,Rhyme & Reason (1997),rhyme reason,Documentary
+1379,Love and Other Catastrophes (1996),love catastrophes,Romance
+1380,Hollow Reed (1996),hollow reed,Drama
+1381,Losing Chase (1996),losing chase,Drama
+1382,"Bonheur, Le (1965)",bonheur,Drama
+1383,"Second Jungle Book: Mowgli & Baloo, The (1997)",second jungle book mowgli baloo,"Adventure, Children"
+1384,Squeeze (1996),squeeze,Drama
+1385,Roseanna's Grave (For Roseanna) (1997),roseannas grave roseanna,"Comedy, Romance"
+1386,Tetsuo II: Body Hammer (1992),tetsuo body hammer,Sci-Fi
+1387,Fall (1997),fall,Romance
+1388,Gabbeh (1996),gabbeh,Drama
+1389,Mondo (1996),mondo,Drama
+1390,"Innocent Sleep, The (1995)",innocent sleep,Crime
+1391,For Ever Mozart (1996),ever mozart,Drama
+1392,"Locusts, The (1997)",locusts,Drama
+1393,Stag (1997),stag,"Action, Thriller"
+1394,Swept from the Sea (1997),swept sea,Romance
+1395,Hurricane Streets (1998),hurricane streets,Drama
+1396,Stonewall (1995),stonewall,Drama
+1397,Of Human Bondage (1934),human bondage,Drama
+1398,Anna (1996),anna,Drama
+1399,Stranger in the House (1997),stranger house,Thriller
+1400,Picture Bride (1995),picture bride,"Drama, Romance"
+1401,M. Butterfly (1993),butterfly,Drama
+1402,"Ciao, Professore! (1993)",ciao professore,Drama
+1403,Caro Diario (Dear Diary) (1994),caro diario dear diary,"Comedy, Drama"
+1404,Withnail and I (1987),withnail,Comedy
+1405,Boy's Life 2 (1997),boys life,Drama
+1406,When Night Is Falling (1995),night falling,"Drama, Romance"
+1407,"Specialist, The (1994)",specialist,Action
+1408,Gordy (1995),gordy,Comedy
+1409,"Swan Princess, The (1994)",swan princess,"Animation, Children"
+1410,Harlem (1993),harlem,Drama
+1411,Barbarella (1968),barbarella,"Adventure, Sci-Fi"
+1412,Land Before Time III: The Time of the Great Giving (1995) (V),land time iii time great giving,"Animation, Children"
+1413,Street Fighter (1994),street fighter,Action
+1414,Coldblooded (1995),coldblooded,Action
+1415,"Next Karate Kid, The (1994)",next karate kid,"Action, Children"
+1416,No Escape (1994),escape,"Action, Sci-Fi"
+1417,"Turning, The (1992)",turning,Drama
+1418,"Joy Luck Club, The (1993)",joy luck club,Drama
+1419,Highlander III: The Sorcerer (1994),highlander iii sorcerer,"Action, Sci-Fi"
+1420,Gilligan's Island: The Movie (1998),gilligans island movie,Comedy
+1421,My Crazy Life (Mi vida loca) (1993),crazy life vida loca,Drama
+1422,Suture (1993),suture,"Film-Noir, Thriller"
+1423,"Walking Dead, The (1995)",walking dead,"Drama, War"
+1424,I Like It Like That (1994),like like,"Comedy, Drama, Romance"
+1425,I'll Do Anything (1994),ill anything,"Comedy, Drama"
+1426,Grace of My Heart (1996),grace heart,"Comedy, Drama"
+1427,Drunks (1995),drunks,Drama
+1428,SubUrbia (1997),suburbia,Comedy
+1429,Sliding Doors (1998),sliding doors,"Drama, Romance"
+1430,Ill Gotten Gains (1997),ill gotten gains,Drama
+1431,Legal Deceit (1997),legal deceit,Thriller
+1432,"Mighty, The (1998)",mighty,Drama
+1433,Men of Means (1998),men means,"Action, Drama"
+1434,Shooting Fish (1997),shooting fish,Romance
+1435,"Steal Big, Steal Little (1995)",steal big steal little,Comedy
+1436,Mr. Jones (1993),jones,"Drama, Romance"
+1437,House Party 3 (1994),house party,Comedy
+1438,Panther (1995),panther,Drama
+1439,Jason's Lyric (1994),jasons lyric,"Crime, Drama"
+1440,Above the Rim (1994),rim,Drama
+1441,Moonlight and Valentino (1995),moonlight valentino,"Drama, Romance"
+1442,"Scarlet Letter, The (1995)",scarlet letter,Drama
+1443,8 Seconds (1994),seconds,Drama
+1444,That Darn Cat! (1965),darn cat,"Children, Comedy, Mystery"
+1445,Ladybird Ladybird (1994),ladybird ladybird,Drama
+1446,"Bye Bye, Love (1995)",bye bye love,Comedy
+1447,Century (1993),century,Drama
+1448,My Favorite Season (1993),favorite season,Drama
+1449,Pather Panchali (1955),pather panchali,Drama
+1450,Golden Earrings (1947),golden earrings,"Adventure, Romance"
+1451,Foreign Correspondent (1940),foreign correspondent,Thriller
+1452,Lady of Burlesque (1943),lady burlesque,"Comedy, Mystery"
+1453,Angel on My Shoulder (1946),angel shoulder,"Crime, Drama"
+1454,Angel and the Badman (1947),angel badman,Western
+1455,"Outlaw, The (1943)",outlaw,Western
+1456,Beat the Devil (1954),beat devil,"Comedy, Drama"
+1457,Love Is All There Is (1996),love,"Comedy, Drama"
+1458,"Damsel in Distress, A (1937)",damsel distress,"Comedy, Musical, Romance"
+1459,Madame Butterfly (1995),madame butterfly,Musical
+1460,Sleepover (1995),sleepover,"Comedy, Drama"
+1461,Here Comes Cookie (1935),comes cookie,Comedy
+1462,"Thieves (Voleurs, Les) (1996)",thieves voleurs les,"Crime, Drama, Romance"
+1463,"Boys, Les (1997)",boys les,Comedy
+1464,"Stars Fell on Henrietta, The (1995)",stars fell henrietta,Drama
+1465,Last Summer in the Hamptons (1995),last summer hamptons,"Comedy, Drama"
+1466,Margaret's Museum (1995),margarets museum,Drama
+1467,"Saint of Fort Washington, The (1993)",saint fort washington,Drama
+1468,"Cure, The (1995)",cure,Drama
+1469,Tom and Huck (1995),tom huck,"Adventure, Children"
+1470,Gumby: The Movie (1995),gumby movie,"Animation, Children"
+1471,Hideaway (1995),hideaway,Thriller
+1472,"Visitors, The (Visiteurs, Les) (1993)",visitors visiteurs les,"Comedy, Sci-Fi"
+1473,"Little Princess, The (1939)",little princess,"Children, Drama"
+1474,Nina Takes a Lover (1994),nina takes lover,"Comedy, Romance"
+1475,Bhaji on the Beach (1993),bhaji beach,"Comedy, Drama"
+1476,Raw Deal (1948),raw deal,Film-Noir
+1477,Nightwatch (1997),nightwatch,"Horror, Thriller"
+1478,Dead Presidents (1995),dead presidents,"Action, Crime, Drama"
+1479,Reckless (1995),reckless,Comedy
+1480,Herbie Rides Again (1974),herbie rides,"Adventure, Children, Comedy"
+1481,S.F.W. (1994),sfw,Drama
+1482,"Gate of Heavenly Peace, The (1995)",gate heavenly peace,Documentary
+1483,"Man in the Iron Mask, The (1998)",man iron mask,"Action, Drama, Romance"
+1484,"Jerky Boys, The (1994)",jerky boys,"Action, Comedy"
+1485,"Colonel Chabert, Le (1994)",colonel chabert,"Drama, Romance, War"
+1486,Girl in the Cadillac (1995),girl cadillac,Drama
+1487,Even Cowgirls Get the Blues (1993),even cowgirls get blues,"Comedy, Romance"
+1488,Germinal (1993),germinal,Drama
+1489,Chasers (1994),chasers,Comedy
+1490,Fausto (1993),fausto,Comedy
+1491,Tough and Deadly (1995),tough deadly,"Action, Drama, Thriller"
+1492,Window to Paris (1994),window paris,Comedy
+1493,"Modern Affair, A (1995)",modern affair,Romance
+1494,"Mostro, Il (1994)",mostro,Comedy
+1495,Flirt (1995),flirt,Drama
+1496,Carpool (1996),carpool,"Comedy, Crime"
+1497,"Line King: Al Hirschfeld, The (1996)",line king hirschfeld,Documentary
+1498,Farmer & Chase (1995),farmer chase,Comedy
+1499,Grosse Fatigue (1994),grosse fatigue,Comedy
+1500,Santa with Muscles (1996),santa muscles,Comedy
+1501,Prisoner of the Mountains (Kavkazsky Plennik) (1996),prisoner mountains kavkazsky plennik,War
+1502,Naked in New York (1994),naked new york,"Comedy, Romance"
+1503,Gold Diggers: The Secret of Bear Mountain (1995),gold diggers secret bear mountain,"Adventure, Children"
+1504,"Bewegte Mann, Der (1994)",bewegte mann der,Comedy
+1505,Killer: A Journal of Murder (1995),killer journal murder,"Crime, Drama"
+1506,Nelly & Monsieur Arnaud (1995),nelly monsieur arnaud,Drama
+1507,Three Lives and Only One Death (1996),three lives one death,Comedy
+1508,"Babysitter, The (1995)",babysitter,"Drama, Thriller"
+1509,Getting Even with Dad (1994),getting even dad,Comedy
+1510,Mad Dog Time (1996),mad dog time,Crime
+1511,Children of the Revolution (1996),children revolution,Comedy
+1512,"World of Apu, The (Apur Sansar) (1959)",world apu apur sansar,Drama
+1513,Sprung (1997),sprung,Comedy
+1514,Dream With the Fishes (1997),dream fishes,Drama
+1515,Wings of Courage (1995),wings courage,"Adventure, Romance"
+1516,"Wedding Gift, The (1994)",wedding gift,Drama
+1517,Race the Sun (1996),race sun,Drama
+1518,Losing Isaiah (1995),losing isaiah,Drama
+1519,New Jersey Drive (1995),new jersey drive,"Crime, Drama"
+1520,"Fear, The (1995)",fear,Horror
+1521,Mr. Wonderful (1993),wonderful,"Comedy, Romance"
+1522,Trial by Jury (1994),trial jury,Thriller
+1523,"Good Man in Africa, A (1994)",good man africa,"Action, Adventure"
+1524,Kaspar Hauser (1993),kaspar hauser,Drama
+1525,"Object of My Affection, The (1998)",object affection,"Comedy, Romance"
+1526,Witness (1985),witness,"Drama, Romance, Thriller"
+1527,Senseless (1998),senseless,Comedy
+1528,Nowhere (1997),nowhere,Drama
+1529,Underground (1995),underground,War
+1530,Jefferson in Paris (1995),jefferson paris,Drama
+1531,Far From Home: The Adventures of Yellow Dog (1995),far home adventures yellow dog,"Adventure, Children"
+1532,Foreign Student (1994),foreign student,Drama
+1533,I Don't Want to Talk About It (De eso no se habla) (1993),dont want talk eso habla,Drama
+1534,Twin Town (1997),twin town,"Comedy, Crime"
+1535,"Enfer, L' (1994)",enfer,Drama
+1536,Aiqing wansui (1994),aiqing wansui,Drama
+1537,Cosi (1996),cosi,Comedy
+1538,All Over Me (1997),,Drama
+1539,Being Human (1993),human,Drama
+1540,"Amazing Panda Adventure, The (1995)",amazing panda adventure,"Adventure, Children"
+1541,"Beans of Egypt, Maine, The (1994)",beans egypt maine,Drama
+1542,"Scarlet Letter, The (1926)",scarlet letter,Drama
+1543,Johns (1996),johns,Drama
+1544,It Takes Two (1995),takes two,Comedy
+1545,Frankie Starlight (1995),frankie starlight,"Drama, Romance"
+1546,Shadows (Cienie) (1988),shadows cienie,Drama
+1547,"Show, The (1995)",show,Documentary
+1548,The Courtyard (1995),courtyard,"Action, Thriller"
+1549,Dream Man (1995),dream man,Thriller
+1550,Destiny Turns on the Radio (1995),destiny turns radio,Comedy
+1551,"Glass Shield, The (1994)",glass shield,Drama
+1552,"Hunted, The (1995)",hunted,Action
+1553,"Underneath, The (1995)",underneath,"Mystery, Thriller"
+1554,Safe Passage (1994),safe passage,Drama
+1555,"Secret Adventures of Tom Thumb, The (1993)",secret adventures tom thumb,"Adventure, Children"
+1556,Condition Red (1995),condition red,"Action, Drama, Thriller"
+1557,Yankee Zulu (1994),yankee zulu,"Comedy, Drama"
+1558,Aparajito (1956),aparajito,Drama
+1559,Hostile Intentions (1994),hostile intentions,"Action, Drama, Thriller"
+1560,Clean Slate (Coup de Torchon) (1981),clean slate coup torchon,Crime
+1561,Tigrero: A Film That Was Never Made (1994),tigrero film never made,"Documentary, Drama"
+1562,"Eye of Vichy, The (Oeil de Vichy, L') (1993)",eye vichy oeil vichy,Documentary
+1563,"Promise, The (Versprechen, Das) (1994)",promise versprechen das,Romance
+1564,To Cross the Rubicon (1991),cross rubicon,Drama
+1565,Daens (1992),daens,Drama
+1566,"Man from Down Under, The (1943)",man,Drama
+1567,Careful (1992),careful,Comedy
+1568,Vermont Is For Lovers (1992),vermont lovers,"Comedy, Romance"
+1569,"Vie est belle, La (Life is Rosey) (1987)",vie est belle life rosey,"Comedy, Drama"
+1570,Quartier Mozart (1992),quartier mozart,Comedy
+1571,Touki Bouki (Journey of the Hyena) (1973),touki bouki journey hyena,Drama
+1572,Wend Kuuni (God's Gift) (1982),wend kuuni gods gift,Drama
+1573,Spirits of the Dead (Tre passi nel delirio) (1968),spirits dead tre passi nel delirio,Horror
+1574,Pharaoh's Army (1995),pharaohs army,War
+1575,"I, Worst of All (Yo, la peor de todas) (1990)",worst peor todas,Drama
+1576,"Hungarian Fairy Tale, A (1987)",hungarian fairy tale,Fantasy
+1577,"Death in the Garden (Mort en ce jardin, La) (1956)",death garden mort jardin,Drama
+1578,"Collectionneuse, La (1967)",collectionneuse,Drama
+1579,Baton Rouge (1988),baton rouge,Thriller
+1580,Liebelei (1933),liebelei,Romance
+1581,"Woman in Question, The (1950)",woman question,Mystery
+1582,T-Men (1947),tmen,Film-Noir
+1583,"Invitation, The (Zaproszenie) (1986)",invitation zaproszenie,Drama
+1584,"Symphonie pastorale, La (1946)",symphonie pastorale,Drama
+1585,American Dream (1990),american dream,Documentary
+1586,Lashou shentan (1992),lashou shentan,"Action, Crime, Drama"
+1587,Terror in a Texas Town (1958),terror texas town,Western
+1588,Salut cousin! (1996),salut cousin,"Comedy, Drama"
+1589,Schizopolis (1996),schizopolis,Comedy
+1590,"To Have, or Not (1995)",,Drama
+1591,Duoluo tianshi (1995),duoluo tianshi,Drama
+1592,"Magic Hour, The (1998)",magic hour,Drama
+1593,Death in Brunswick (1991),death brunswick,Comedy
+1594,Everest (1998),everest,Documentary
+1595,Shopping (1994),shopping,"Action, Thriller"
+1596,Nemesis 2: Nebula (1995),nemesis nebula,"Action, Sci-Fi, Thriller"
+1597,Romper Stomper (1992),romper stomper,"Action, Drama"
+1598,City of Industry (1997),city industry,"Crime, Thriller"
+1599,Someone Else's America (1995),someone elses america,Drama
+1600,Guantanamera (1994),guantanamera,Comedy
+1601,Office Killer (1997),office killer,Thriller
+1602,"Price Above Rubies, A (1998)",price rubies,Drama
+1603,Angela (1995),angela,Drama
+1604,He Walked by Night (1948),walked night,"Crime, Film-Noir, Thriller"
+1605,Love Serenade (1996),love serenade,Comedy
+1606,Deceiver (1997),deceiver,Crime
+1607,Hurricane Streets (1998),hurricane streets,Drama
+1608,Buddy (1997),buddy,"Adventure, Children, Drama"
+1609,B*A*P*S (1997),baps,Comedy
+1610,"Truth or Consequences, N.M. (1997)",truth consequences,"Action, Crime, Romance"
+1611,Intimate Relations (1996),intimate relations,Comedy
+1612,"Leading Man, The (1996)",leading man,Romance
+1613,Tokyo Fist (1995),tokyo fist,"Action, Drama"
+1614,"Reluctant Debutante, The (1958)",reluctant debutante,"Comedy, Drama"
+1615,Warriors of Virtue (1997),warriors virtue,"Action, Adventure, Children, Fantasy"
+1616,Desert Winds (1995),desert winds,Drama
+1617,Hugo Pool (1997),hugo pool,Romance
+1618,King of New York (1990),king new york,"Action, Crime"
+1619,All Things Fair (1996),things fair,Drama
+1620,"Sixth Man, The (1997)",sixth man,Comedy
+1621,Butterfly Kiss (1995),butterfly kiss,Thriller
+1622,"Paris, France (1993)",paris france,Comedy
+1623,"Cérémonie, La (1995)",cérémonie,Drama
+1624,Hush (1998),hush,Thriller
+1625,Nightwatch (1997),nightwatch,"Horror, Thriller"
+1626,Nobody Loves Me (Keiner liebt mich) (1994),nobody loves keiner liebt mich,"Comedy, Drama"
+1627,"Wife, The (1995)",wife,"Comedy, Drama"
+1628,Lamerica (1994),lamerica,Drama
+1629,Nico Icon (1995),nico icon,Documentary
+1630,"Silence of the Palace, The (Saimt el Qusur) (1994)",silence palace saimt qusur,Drama
+1631,"Slingshot, The (1993)",slingshot,"Comedy, Drama"
+1632,Land and Freedom (Tierra y libertad) (1995),land freedom tierra libertad,War
+1633,Á köldum klaka (Cold Fever) (1994),köldum klaka cold fever,"Comedy, Drama"
+1634,Etz Hadomim Tafus (Under the Domin Tree) (1994),etz hadomim tafus domin tree,Drama
+1635,Two Friends (1986) ,two friends,Drama
+1636,Brothers in Trouble (1995),brothers trouble,Drama
+1637,Girls Town (1996),girls town,Drama
+1638,Normal Life (1996),normal life,"Crime, Drama"
+1639,Bitter Sugar (Azucar Amargo) (1996),bitter sugar azucar amargo,Drama
+1640,"Eighth Day, The (1996)",eighth day,Drama
+1641,Dadetown (1995),dadetown,Documentary
+1642,Some Mother's Son (1996),mothers son,Drama
+1643,Angel Baby (1995),angel baby,Drama
+1644,Sudden Manhattan (1996),sudden manhattan,Comedy
+1645,"Butcher Boy, The (1998)",butcher boy,Drama
+1646,Men With Guns (1997),men guns,"Action, Drama"
+1647,Hana-bi (1997),hanabi,"Comedy, Crime, Drama"
+1648,"Niagara, Niagara (1997)",niagara niagara,Drama
+1649,"Big One, The (1997)",big one,"Comedy, Documentary"
+1650,"Butcher Boy, The (1998)",butcher boy,Drama
+1651,"Spanish Prisoner, The (1997)",spanish prisoner,"Drama, Thriller"
+1652,Temptress Moon (Feng Yue) (1996),temptress moon feng yue,Romance
+1653,Entertaining Angels: The Dorothy Day Story (1996),entertaining angels dorothy day story,Drama
+1654,Chairman of the Board (1998),chairman board,Comedy
+1655,"Favor, The (1994)",favor,"Comedy, Romance"
+1656,Little City (1998),little city,"Comedy, Romance"
+1657,Target (1995),target,"Action, Drama"
+1658,"Substance of Fire, The (1996)",substance fire,Drama
+1659,Getting Away With Murder (1996),getting away murder,Comedy
+1660,Small Faces (1995),small faces,Drama
+1661,"New Age, The (1994)",new age,Drama
+1662,Rough Magic (1995),rough magic,"Drama, Romance"
+1663,Nothing Personal (1995),nothing personal,"Drama, War"
+1664,8 Heads in a Duffel Bag (1997),heads duffel bag,Comedy
+1665,"Brother's Kiss, A (1997)",brothers kiss,Drama
+1666,Ripe (1996),ripe,Drama
+1667,"Next Step, The (1995)",next step,Drama
+1668,Wedding Bell Blues (1996),wedding bell blues,Comedy
+1669,MURDER and murder (1996),murder murder,"Crime, Drama, Mystery"
+1670,Tainted (1998),tainted,"Comedy, Thriller"
+1671,"Further Gesture, A (1996)",gesture,Drama
+1672,Kika (1993),kika,Drama
+1673,Mirage (1995),mirage,"Action, Thriller"
+1674,Mamma Roma (1962),mamma roma,Drama
+1675,"Sunchaser, The (1996)",sunchaser,Drama
+1676,"War at Home, The (1996)",war home,Drama
+1677,Sweet Nothing (1995),sweet nothing,Drama
+1678,Mat' i syn (1997),mat syn,Drama
+1679,B. Monkey (1998),monkey,"Romance, Thriller"
+1680,Sliding Doors (1998),sliding doors,"Drama, Romance"
+1681,You So Crazy (1994),crazy,Comedy
+1682,Scream of Stone (Schrei aus Stein) (1991),scream stone schrei aus stein,Drama
