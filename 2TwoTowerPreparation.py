@@ -22,7 +22,7 @@ torch.manual_seed(SEED)
 
 
 # -----------------------
-# 模型定义（两层 MLP）
+# 模型定义（两层 MLP）（这个没啥好说的）
 # -----------------------
 class ItemTower(nn.Module):
     def __init__(self, input_dim=64, hidden_dim=64, output_dim=64):
@@ -78,7 +78,8 @@ def build_user_history_and_init_embeddings(ratings, movie_ids, movie_embeddings)
     # 转成 int (保证类型一致)
     ratings['user_id'] = ratings['user_id'].astype(int)
     ratings['item_id'] = ratings['item_id'].astype(int)
-
+    
+    #按用户聚合排序
     user_history = ratings.groupby("user_id")["item_id"].apply(list).to_dict()
 
     # map item id -> index in movie_ids
