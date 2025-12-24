@@ -8,7 +8,7 @@ from nltk.tokenize import word_tokenize
 from sklearn.preprocessing import LabelEncoder
 import nltk
 
-
+# 按字段，读取并整理数据集，数据集包括物品ID，标题，发布时间，电影上映时间，URL，电影种类
 def load_dataset():
     data_path = '/root/autodl-tmp/LLM4RecWithQwen/data'
     ratings = pd.read_csv(
@@ -36,7 +36,7 @@ def load_dataset():
     
     return ratings, movies, users
 
-
+# 清理掉异常值
 def clean_text(text):
     stop_words = set(stopwords.words('english'))
     
@@ -47,7 +47,7 @@ def clean_text(text):
     tokens = [t for t in tokens if t not in stop_words and len(t) > 2]  # 过滤
     return ' '.join(tokens)
 
-
+# 数据处理：最开始的数据是One-Hot的，然后我们要做的事情就是
 def preprocess_data(ratings, movies, users):
     
     movies['clean_title'] = movies['title'].apply(clean_text)
