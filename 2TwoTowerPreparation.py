@@ -59,7 +59,7 @@ def load_prepared_data():
     ratings = pd.read_csv(ratings_path)
     movies = pd.read_csv(movies_path)
     return ratings, movies
-
+#这里加载的就是我们最开始生成的movie embedding和item embedding了，是已经concat过的embedding们。
 def load_movie_init_embeddings():
     movie_ids = np.load(os.path.join(embedding_path, "movie_ids.npy"))
     movie_embeddings = np.load(os.path.join(embedding_path, "movie_embeddings.npy"))
