@@ -76,19 +76,22 @@ def preprocess_data(ratings, movies, users):
     users = users[['user_id', 'age', 'gender_code', 'occupation_code']]
     
     return ratings, movies, users
-
+#上面这个数据做好了类别的One-Hot
+#下面我们继续
+#下面这个函数用来构建用户画像，我们首先设置了一个user_ratings变量，而后，首先是我们假设如果用户没打过分，那么就默认是Drama，Comedy，
 def build_user_preferences(ratings, movies):
     
     
     def get_user_preferences(user_id, top_n=3):
         
         user_ratings = ratings[(ratings['user_id'] == user_id) & (ratings['rating'] >= 4)]
+        #冷启动兜底策略：因为我们的MovieLens-100K数据集中，大家的偏好很多都是Drama，Comedy，因此我们设定为comedy
         if len(user_ratings) == 0:
             return ['Drama', 'Comedy']  # 默认偏好
-        
+        #构建一个用户喜欢的item塔
         user_items = user_ratings['item_id'].unique()
         user_movies = movies[movies['item_id'].isin(user_items)]
-        
+        #构建一个用户偏好哈希，这个哈希做的事情是：统计用户喜欢的类别数目。
         genre_counts = {}
         for _, row in user_movies.iterrows():
             for genre in row['genres'].split(', '):
@@ -103,8 +106,9 @@ def build_user_preferences(ratings, movies):
 def build_prompt(user_id, users, get_user_preferences):
     """为用户构建推荐提示词"""
     user_prefs = get_user_preferences(user_id)
+    #确定好我们用户最多的种类
     user = users[users['user_id'] == user_id].iloc[0]
-    
+    #利用好年龄和性别特征
     age_group = 'young' if user['age'] < 30 else 'middle-aged' if user['age'] < 50 else 'senior'
     gender = 'male' if user['gender_code'] == 1 else 'female'
     
