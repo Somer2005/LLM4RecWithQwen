@@ -67,7 +67,7 @@ def load_movie_init_embeddings():
 
 
 # -----------------------
-# 建立 user_history 和 user initial embedding （池化 word2vec）
+# 建立 user_history 和 user initial embedding 
 # -----------------------
 def build_user_history_and_init_embeddings(ratings, movie_ids, movie_embeddings):
     """
@@ -79,12 +79,12 @@ def build_user_history_and_init_embeddings(ratings, movie_ids, movie_embeddings)
     ratings['user_id'] = ratings['user_id'].astype(int)
     ratings['item_id'] = ratings['item_id'].astype(int)
     
-    #按用户聚合排序
+    #按用户聚合排序，这个就没什么可说的就很轻松很简单的feel
     user_history = ratings.groupby("user_id")["item_id"].apply(list).to_dict()
 
-    # map item id -> index in movie_ids
+    # 就把movie-id用独热码读出来
     movieId2index = {int(mid): idx for idx, mid in enumerate(movie_ids)}
-
+    #构建用户交互数据
     emb_dim = movie_embeddings.shape[1]
     user_init_emb = {}
     for uid, items in user_history.items():
@@ -100,7 +100,7 @@ def build_user_history_and_init_embeddings(ratings, movie_ids, movie_embeddings)
 
 
 # -----------------------
-# BPR Dataset
+# BPR Dataset 这个是真没啥可说的 主要双塔重点也不在这里
 # -----------------------
 class BPRDataset(Dataset):
     def __init__(self, user_history, movie_index_list):
@@ -155,7 +155,7 @@ def train(args):
         ratings, movie_ids, movie_init_emb
     )
 
-    # create a list of all item ids for negative sampling
+    # 对所有负样本创建一个列表
     all_item_ids = [int(x) for x in movie_ids.tolist()]
 
     # dataset & dataloader
@@ -163,11 +163,11 @@ def train(args):
     loader = DataLoader(dataset, batch_size=args.batch_size, shuffle=True, collate_fn=collate_fn, num_workers=0)
 
     device = torch.device(DEVICE)
-
+    #读取双塔
     emb_dim = movie_init_emb.shape[1]
     user_tower = UserTower(input_dim=emb_dim, hidden_dim=args.hidden_dim, output_dim=args.out_dim).to(device)
     item_tower = ItemTower(input_dim=emb_dim, hidden_dim=args.hidden_dim, output_dim=args.out_dim).to(device)
-
+    #我选择|Adam|作为我的优化器
     optim = torch.optim.Adam(list(user_tower.parameters()) + list(item_tower.parameters()), lr=args.lr)
 
     # Pre-build tensors for fast lookup
