@@ -12,4 +12,6 @@
 
 反正双塔的模型嘛embedding大家自己也都会写，无非就是用户的embedding我们就把离散特征各自喂给一个embedding层，这个没什么好说的基本在data那个文件夹的python里面逻辑很清楚……
 
-这个py里，
+这个py里，我们利用用户历史行为数据池化求平均构建了用户初始embedding，而另一边的Item初始embedding我们使用了word2vec。
+
+# 
